@@ -6,6 +6,42 @@ models:
     label: Global Site Config
     hideContent: true
     singleInstance: true
+    
+  MediumLayout:
+      type: page
+      label: Medium Landing
+      template: MediumLayout
+      fields:
+        - type: header
+          name: header
+          label: Header
+          description: The header of the page
+          required: true
+        - type: hero
+          name: hero
+          label: Hero
+          description: The Page hero
+        - type: features
+          name: features
+          label: Features
+          description: The page features section
+        - type: videoSection
+          name: videoSection
+          label: Video Section
+          description: A section that displays an embedded video
+        - type: genericSection
+          name: genericSection
+          label: Generic Section
+          description: A generic Section
+        - type: openFile
+          name: openFile
+          label: Open File Section
+          description: The open file section
+        - type: footer
+          name: footer
+          label: Footer
+          description: The page footer
+      
   containerLayout:
     type: page
     label: containerLayout
@@ -52,42 +88,6 @@ models:
           type: reference
           labelField: title
           models: [heroPrimary, stackItems, banner, twoColumnBlock, titleBlock, jobs]
-  
-  MediumLayout:
-    type: page
-    label: Medium Landing
-    template: MediumLayout
-    fields:
-      - type: header
-        name: header
-        label: Header
-        description: The header of the page
-        required: true
-      - type: hero
-        name: hero
-        label: Hero
-        description: The Page hero
-      - type: features
-        name: features
-        label: Features
-        description: The page features section
-      - type: videoSection
-        name: videoSection
-        label: Video Section
-        description: A section that displays an embedded video
-      - type: genericSection
-        name: genericSection
-        label: Generic Section
-        description: A generic Section
-      - type: openFile
-        name: openFile
-        label: Open File Section
-        description: The open file section
-      - type: footer
-        name: footer
-        label: Footer
-        description: The page footer
-        
   genericSection:
     type: object
     label: Generic Section

@@ -1120,12 +1120,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-02T18:33:13.087Z",
+      "buildTime": "2019-04-02T18:47:06.615Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "d3b4223e03d946616f77aa3c07add7c5",
+        "contentDigest": "d1f986fcce1adc0111b36d7d69c2aef7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1135,7 +1135,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "16bb9ea7782f56c66f68c0353de131a1",
+        "contentDigest": "1d962f5c389a9cb830e06232cde593dd",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1146,9 +1146,9 @@
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2019-03-29T23:17:48.689Z",
-      "accessTime": "2019-04-02T18:33:17.127Z",
-      "changeTime": "2019-03-29T23:17:48.689Z",
+      "modifiedTime": "2019-04-02T18:46:55.653Z",
+      "accessTime": "2019-04-02T18:47:08.571Z",
+      "changeTime": "2019-04-02T18:46:55.653Z",
       "birthTime": "2019-03-28T22:30:54.910Z",
       "root": "/",
       "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src",
@@ -1165,13 +1165,13 @@
       "blksize": 4096,
       "ino": 4130385,
       "blocks": 0,
-      "atimeMs": 1554229997126.6243,
-      "mtimeMs": 1553901468688.5784,
-      "ctimeMs": 1553901468688.5784,
+      "atimeMs": 1554230828570.5952,
+      "mtimeMs": 1554230815653.0244,
+      "ctimeMs": 1554230815653.0244,
       "birthtimeMs": 1553812254910.1082,
-      "atime": "2019-04-02T18:33:17.127Z",
-      "mtime": "2019-03-29T23:17:48.689Z",
-      "ctime": "2019-03-29T23:17:48.689Z",
+      "atime": "2019-04-02T18:47:08.571Z",
+      "mtime": "2019-04-02T18:46:55.653Z",
+      "ctime": "2019-04-02T18:46:55.653Z",
       "birthtime": "2019-03-28T22:30:54.910Z"
     },
     "e0aea2b4-7d47-5b9f-820c-b457171f6733": {
@@ -1702,7 +1702,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "707bb857a8d3a7bbc9ec3fe1545f0396",
+        "contentDigest": "62d62f3e80479c6de3a250f2b1594bb0",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/jobs.md\"",
@@ -1712,11 +1712,11 @@
       "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/jobs.md",
       "relativePath": "jobs.md",
       "extension": "md",
-      "size": 2797,
+      "size": 2800,
       "prettySize": "2.8 kB",
-      "modifiedTime": "2019-04-02T18:33:08.104Z",
-      "accessTime": "2019-04-02T18:33:08.103Z",
-      "changeTime": "2019-04-02T18:33:08.104Z",
+      "modifiedTime": "2019-04-02T18:45:26.396Z",
+      "accessTime": "2019-04-02T18:45:59.163Z",
+      "changeTime": "2019-04-02T18:46:55.653Z",
       "birthTime": "2019-03-29T23:17:48.689Z",
       "root": "/",
       "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
@@ -1733,13 +1733,13 @@
       "blksize": 4096,
       "ino": 4467205,
       "blocks": 8,
-      "atimeMs": 1554229988103.093,
-      "mtimeMs": 1554229988104.0984,
-      "ctimeMs": 1554229988104.0984,
+      "atimeMs": 1554230759163.3171,
+      "mtimeMs": 1554230726396.2183,
+      "ctimeMs": 1554230815653.0242,
       "birthtimeMs": 1553901468688.5696,
-      "atime": "2019-04-02T18:33:08.103Z",
-      "mtime": "2019-04-02T18:33:08.104Z",
-      "ctime": "2019-04-02T18:33:08.104Z",
+      "atime": "2019-04-02T18:45:59.163Z",
+      "mtime": "2019-04-02T18:45:26.396Z",
+      "ctime": "2019-04-02T18:46:55.653Z",
       "birthtime": "2019-03-29T23:17:48.689Z"
     },
     "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2": {
@@ -1749,7 +1749,7 @@
       "internal": {
         "content": "",
         "type": "MarkdownRemark",
-        "contentDigest": "e0eabd65609a084f2ab9ad288c49159d",
+        "contentDigest": "07fa6e80a4f58d41c1b1c591e8fdf1ac",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "url": "gatsby-remark-page-creator",
@@ -1865,7 +1865,7 @@
             "weight": 1
           }
         },
-        "template": "ContainerLayout"
+        "template": "SingleColumnLayout"
       },
       "excerpt": "",
       "rawMarkdownBody": "",
@@ -2399,7 +2399,7 @@
                   "weight": 1
                 }
               },
-              "template": "ContainerLayout"
+              "template": "SingleColumnLayout"
             }
           }
         ],
@@ -2473,7 +2473,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8ee0999a47b1932b05cd4edba8fa9ac",
+        "contentDigest": "e2ced560ceb7b19897685764f98d4318",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3021,7 +3021,7 @@
                   "weight": 1
                 }
               },
-              "template": "ContainerLayout"
+              "template": "SingleColumnLayout"
             }
           }
         ],
@@ -3095,7 +3095,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "28b2d50c048e697edfec4bc36d58a9a6",
+        "contentDigest": "3d4424d2c50fa056a7adccc83bf198a2",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3556,7 +3556,7 @@
                   "weight": 1
                 }
               },
-              "template": "ContainerLayout"
+              "template": "SingleColumnLayout"
             }
           }
         ],
@@ -3630,7 +3630,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6f006dce4752c2a53988238ba3de6355",
+        "contentDigest": "62f8e287b40d381f4ee6fad5c4082feb",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3749,7 +3749,7 @@
               "weight": 1
             }
           },
-          "template": "ContainerLayout"
+          "template": "SingleColumnLayout"
         },
         "html": "",
         "pages": [
@@ -4153,7 +4153,7 @@
                   "weight": 1
                 }
               },
-              "template": "ContainerLayout"
+              "template": "SingleColumnLayout"
             }
           }
         ],
@@ -4227,7 +4227,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fbe956bc893a8dc2607556b5c79dbe87",
+        "contentDigest": "98c54c56c730bd95cad0521c145481c4",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -4339,12 +4339,12 @@
     "connections": {}
   },
   "jsonDataPaths": {
-    "index": "243/path---index-6a9-u6mnFu6nw8Y7Sr5JUufELiaKIc",
+    "index": "789/path---index-6a9-FxQEkLJYb2dxBHYr7dr4BLDMjSQ",
     "dev-404-page-5f9": "534/path---dev-404-page-5-f-9-fab-vA8V7YkuMYLBCOgwcaDmKGmFpk",
-    "tos-607": "166/path---tos-607-a07-rxBpE1pv1TOBY3HufubvYpkHVUI",
+    "tos-607": "294/path---tos-607-a07-9wwokvYQAds6dQoB3XazsTHBAiI",
     "medium-body-8bc": "821/path---medium-body-8-bc-256-p53708C2A8szLFEuaDw0xrQn0mk",
-    "medium-c21": "58/path---medium-c-21-95c-f9SSX0rSL8LkBPUDME2xYFchVY",
-    "jobs-79a": "108/path---jobs-79-a-e25-6Tci1x7ZHw3YDAiaaTGzH82FVtk"
+    "medium-c21": "200/path---medium-c-21-95c-fly5OSOkRmxGvQfvdIPYLUiOc",
+    "jobs-79a": "507/path---jobs-79-a-e25-FGTSqjjzmXQOQm3Ihd55UKosUU"
   },
   "components": {
     "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js": {

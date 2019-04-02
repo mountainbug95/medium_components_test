@@ -43,5 +43,4 @@ fields:
     config:
       required: true
 pages:
-  - jobs.md
   - tos.md
