@@ -351,9 +351,6 @@ models:
             name: title
             label: Title
           - type: string
-            name: title
-            label: Title
-          - type: string
             name: subtitle
             label: Subtitle
           - type: string
@@ -527,6 +524,3 @@ models:
             - type: string
               name: location
               label: Location
-
-
-        
