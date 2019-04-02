@@ -12,13 +12,6 @@ sections:
   - type: directory
     path: src/pages
     match: '**/*'
-    label: Medium Landings
-    create: all
-    templates:
-      - MediumLayout
-  - type: directory
-    path: src/pages
-    match: '**/*'
     label: containerLayouts
     create: all
     templates:

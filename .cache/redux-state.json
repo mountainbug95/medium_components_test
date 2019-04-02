@@ -1414,7 +1414,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "d7932f3391ddff92f2f20b63840253d7",
+        "contentDigest": "c54f2833ee363c3a840b88a9845e4a64",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/medium.md\"",
@@ -1424,11 +1424,11 @@
       "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
       "relativePath": "medium.md",
       "extension": "md",
-      "size": 3373,
-      "prettySize": "3.37 kB",
-      "modifiedTime": "2019-03-29T22:39:52.803Z",
-      "accessTime": "2019-03-29T22:39:52.671Z",
-      "changeTime": "2019-03-29T22:39:52.803Z",
+      "size": 3379,
+      "prettySize": "3.38 kB",
+      "modifiedTime": "2019-04-02T23:55:37.019Z",
+      "accessTime": "2019-04-02T23:55:37.018Z",
+      "changeTime": "2019-04-02T23:55:37.019Z",
       "birthTime": "2019-03-28T23:07:07.753Z",
       "root": "/",
       "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
@@ -1445,178 +1445,14 @@
       "blksize": 4096,
       "ino": 4172377,
       "blocks": 8,
-      "atimeMs": 1553899192671.417,
-      "mtimeMs": 1553899192802.926,
-      "ctimeMs": 1553899192802.926,
+      "atimeMs": 1554249337018.2915,
+      "mtimeMs": 1554249337019.3315,
+      "ctimeMs": 1554249337019.3315,
       "birthtimeMs": 1553814427752.8845,
-      "atime": "2019-03-29T22:39:52.671Z",
-      "mtime": "2019-03-29T22:39:52.803Z",
-      "ctime": "2019-03-29T22:39:52.803Z",
+      "atime": "2019-04-02T23:55:37.018Z",
+      "mtime": "2019-04-02T23:55:37.019Z",
+      "ctime": "2019-04-02T23:55:37.019Z",
       "birthtime": "2019-03-28T23:07:07.753Z"
-    },
-    "a4539b17-6909-5975-9bdb-f0c96c25ab5a": {
-      "id": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-      "children": [],
-      "parent": "489fd814-2cd1-5b7c-9fef-38eb326d24c0",
-      "internal": {
-        "content": "",
-        "type": "MarkdownRemark",
-        "contentDigest": "20bc5f3920c76ddd6d6ad0f2b5f4be91",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "url": "gatsby-remark-page-creator",
-          "absolutePath": "gatsby-remark-page-creator",
-          "relativePath": "gatsby-remark-page-creator",
-          "absoluteDir": "gatsby-remark-page-creator",
-          "relativeDir": "gatsby-remark-page-creator",
-          "base": "gatsby-remark-page-creator",
-          "ext": "gatsby-remark-page-creator",
-          "name": "gatsby-remark-page-creator"
-        }
-      },
-      "frontmatter": {
-        "title": "Medium",
-        "header": {
-          "component": "Header",
-          "navItems": [
-            {
-              "href": "https://app.stackbit.com/",
-              "title": "Log In"
-            }
-          ],
-          "actionItem": {
-            "href": "/beta/",
-            "title": "Join the Beta"
-          },
-          "inversed": false
-        },
-        "hero": {
-          "component": "Hero",
-          "heading": "Migrating your medium blog has never been easier.",
-          "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
-          "contact": {
-            "text": "Need a hand? No worries! We can help.",
-            "link": {
-              "text": "Chat with Ohad now →",
-              "url": null
-            }
-          },
-          "displayImage": true,
-          "tweets": {
-            "heading": "What are people saying?",
-            "tweetImage": true
-          },
-          "openFile": {
-            "displayDirections": true,
-            "directions": [
-              {
-                "text": "Go to \"medium\" settings"
-              },
-              {
-                "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
-              },
-              {
-                "text": "Drag and drop the .zip from medium to this screen"
-              }
-            ]
-          },
-          "checklist": {
-            "listItems": [
-              {
-                "text": "Completly FREE"
-              },
-              {
-                "text": "Own Your Content"
-              },
-              {
-                "text": "Fast, Scalable and Cheap"
-              }
-            ]
-          }
-        },
-        "features": {
-          "component": "Features",
-          "heading": "This is a title that has not yet been defined",
-          "subheading": "How it works",
-          "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
-          "featuresList": [
-            {
-              "image": "hour-glass.svg",
-              "title": "Import Your Medium Blog",
-              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-            },
-            {
-              "image": "circles.svg",
-              "title": "Adjust Your Theme's Appearence",
-              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-            },
-            {
-              "image": "connection.svg",
-              "title": "Voilà! It’s live 🎉",
-              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-            }
-          ]
-        },
-        "videoSection": {
-          "component": "VideoSection",
-          "heading": "Watch the demo",
-          "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
-          "directions": [
-            {
-              "text": "Go to Medium \"Settings\""
-            },
-            {
-              "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
-            },
-            {
-              "text": "Drag and drop your .zip from Medium to this screen"
-            }
-          ]
-        },
-        "genericSection": {
-          "component": "GenericSection",
-          "heading": "Start your migration",
-          "subheading": "Drag & Drop your ZIP into the window"
-        },
-        "openFile": {
-          "component": "OpenFile",
-          "displayDirections": false
-        },
-        "footer": {
-          "component": "Footer",
-          "copyright": "Copyright © 2018 Stackbit",
-          "links": [
-            {
-              "href": "/jobs",
-              "title": "Jobs"
-            },
-            {
-              "href": "/tos",
-              "title": "Terms"
-            }
-          ]
-        },
-        "menus": {
-          "main": {
-            "title": "Medium",
-            "weight": 3
-          }
-        },
-        "template": "MediumLayout"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "",
-      "fileAbsolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
-      "fields": {
-        "url": "/medium/",
-        "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
-        "relativePath": "medium.md",
-        "absoluteDir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
-        "relativeDir": "",
-        "base": "medium.md",
-        "ext": ".md",
-        "name": "medium"
-      }
     },
     "3135974a-766c-5de6-9fa0-c95dfb2a06d2": {
       "id": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
@@ -2110,141 +1946,6 @@
             }
           },
           {
-            "url": "/medium/",
-            "relativePath": "medium.md",
-            "relativeDir": "",
-            "frontmatter": {
-              "title": "Medium",
-              "header": {
-                "component": "Header",
-                "navItems": [
-                  {
-                    "href": "https://app.stackbit.com/",
-                    "title": "Log In"
-                  }
-                ],
-                "actionItem": {
-                  "href": "/beta/",
-                  "title": "Join the Beta"
-                },
-                "inversed": false
-              },
-              "hero": {
-                "component": "Hero",
-                "heading": "Migrating your medium blog has never been easier.",
-                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
-                "contact": {
-                  "text": "Need a hand? No worries! We can help.",
-                  "link": {
-                    "text": "Chat with Ohad now →",
-                    "url": null
-                  }
-                },
-                "displayImage": true,
-                "tweets": {
-                  "heading": "What are people saying?",
-                  "tweetImage": true
-                },
-                "openFile": {
-                  "displayDirections": true,
-                  "directions": [
-                    {
-                      "text": "Go to \"medium\" settings"
-                    },
-                    {
-                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
-                    },
-                    {
-                      "text": "Drag and drop the .zip from medium to this screen"
-                    }
-                  ]
-                },
-                "checklist": {
-                  "listItems": [
-                    {
-                      "text": "Completly FREE"
-                    },
-                    {
-                      "text": "Own Your Content"
-                    },
-                    {
-                      "text": "Fast, Scalable and Cheap"
-                    }
-                  ]
-                }
-              },
-              "features": {
-                "component": "Features",
-                "heading": "This is a title that has not yet been defined",
-                "subheading": "How it works",
-                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
-                "featuresList": [
-                  {
-                    "image": "hour-glass.svg",
-                    "title": "Import Your Medium Blog",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "circles.svg",
-                    "title": "Adjust Your Theme's Appearence",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "connection.svg",
-                    "title": "Voilà! It’s live 🎉",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  }
-                ]
-              },
-              "videoSection": {
-                "component": "VideoSection",
-                "heading": "Watch the demo",
-                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
-                "directions": [
-                  {
-                    "text": "Go to Medium \"Settings\""
-                  },
-                  {
-                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
-                  },
-                  {
-                    "text": "Drag and drop your .zip from Medium to this screen"
-                  }
-                ]
-              },
-              "genericSection": {
-                "component": "GenericSection",
-                "heading": "Start your migration",
-                "subheading": "Drag & Drop your ZIP into the window"
-              },
-              "openFile": {
-                "component": "OpenFile",
-                "displayDirections": false
-              },
-              "footer": {
-                "component": "Footer",
-                "copyright": "Copyright © 2018 Stackbit",
-                "links": [
-                  {
-                    "href": "/jobs",
-                    "title": "Jobs"
-                  },
-                  {
-                    "href": "/tos",
-                    "title": "Terms"
-                  }
-                ]
-              },
-              "menus": {
-                "main": {
-                  "title": "Medium",
-                  "weight": 3
-                }
-              },
-              "template": "MediumLayout"
-            }
-          },
-          {
             "url": "/tos/",
             "relativePath": "tos.md",
             "relativeDir": "",
@@ -2401,6 +2102,141 @@
               },
               "template": "SingleColumnLayout"
             }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "component": "Header",
+                "navItems": [
+                  {
+                    "href": "https://app.stackbit.com/",
+                    "title": "Log In"
+                  }
+                ],
+                "actionItem": {
+                  "href": "/beta/",
+                  "title": "Join the Beta"
+                },
+                "inversed": false
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "displayImage": true,
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweetImage": true
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "component": "Footer",
+                "copyright": "Copyright © 2018 Stackbit",
+                "links": [
+                  {
+                    "href": "/jobs",
+                    "title": "Jobs"
+                  },
+                  {
+                    "href": "/tos",
+                    "title": "Terms"
+                  }
+                ]
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
           }
         ],
         "site": {
@@ -2423,46 +2259,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -2473,7 +2269,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e2ced560ceb7b19897685764f98d4318",
+        "contentDigest": "18a04d39affd940e8c1075ede1311c97",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -2617,7 +2413,7 @@
               "weight": 3
             }
           },
-          "template": "MediumLayout"
+          "template": "SingleColumnLayout"
         },
         "html": "",
         "pages": [
@@ -2729,141 +2525,6 @@
                 }
               },
               "template": "SingleColumnLayout"
-            }
-          },
-          {
-            "url": "/medium/",
-            "relativePath": "medium.md",
-            "relativeDir": "",
-            "frontmatter": {
-              "title": "Medium",
-              "header": {
-                "component": "Header",
-                "navItems": [
-                  {
-                    "href": "https://app.stackbit.com/",
-                    "title": "Log In"
-                  }
-                ],
-                "actionItem": {
-                  "href": "/beta/",
-                  "title": "Join the Beta"
-                },
-                "inversed": false
-              },
-              "hero": {
-                "component": "Hero",
-                "heading": "Migrating your medium blog has never been easier.",
-                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
-                "contact": {
-                  "text": "Need a hand? No worries! We can help.",
-                  "link": {
-                    "text": "Chat with Ohad now →",
-                    "url": null
-                  }
-                },
-                "displayImage": true,
-                "tweets": {
-                  "heading": "What are people saying?",
-                  "tweetImage": true
-                },
-                "openFile": {
-                  "displayDirections": true,
-                  "directions": [
-                    {
-                      "text": "Go to \"medium\" settings"
-                    },
-                    {
-                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
-                    },
-                    {
-                      "text": "Drag and drop the .zip from medium to this screen"
-                    }
-                  ]
-                },
-                "checklist": {
-                  "listItems": [
-                    {
-                      "text": "Completly FREE"
-                    },
-                    {
-                      "text": "Own Your Content"
-                    },
-                    {
-                      "text": "Fast, Scalable and Cheap"
-                    }
-                  ]
-                }
-              },
-              "features": {
-                "component": "Features",
-                "heading": "This is a title that has not yet been defined",
-                "subheading": "How it works",
-                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
-                "featuresList": [
-                  {
-                    "image": "hour-glass.svg",
-                    "title": "Import Your Medium Blog",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "circles.svg",
-                    "title": "Adjust Your Theme's Appearence",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "connection.svg",
-                    "title": "Voilà! It’s live 🎉",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  }
-                ]
-              },
-              "videoSection": {
-                "component": "VideoSection",
-                "heading": "Watch the demo",
-                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
-                "directions": [
-                  {
-                    "text": "Go to Medium \"Settings\""
-                  },
-                  {
-                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
-                  },
-                  {
-                    "text": "Drag and drop your .zip from Medium to this screen"
-                  }
-                ]
-              },
-              "genericSection": {
-                "component": "GenericSection",
-                "heading": "Start your migration",
-                "subheading": "Drag & Drop your ZIP into the window"
-              },
-              "openFile": {
-                "component": "OpenFile",
-                "displayDirections": false
-              },
-              "footer": {
-                "component": "Footer",
-                "copyright": "Copyright © 2018 Stackbit",
-                "links": [
-                  {
-                    "href": "/jobs",
-                    "title": "Jobs"
-                  },
-                  {
-                    "href": "/tos",
-                    "title": "Terms"
-                  }
-                ]
-              },
-              "menus": {
-                "main": {
-                  "title": "Medium",
-                  "weight": 3
-                }
-              },
-              "template": "MediumLayout"
             }
           },
           {
@@ -3023,6 +2684,141 @@
               },
               "template": "SingleColumnLayout"
             }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "component": "Header",
+                "navItems": [
+                  {
+                    "href": "https://app.stackbit.com/",
+                    "title": "Log In"
+                  }
+                ],
+                "actionItem": {
+                  "href": "/beta/",
+                  "title": "Join the Beta"
+                },
+                "inversed": false
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "displayImage": true,
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweetImage": true
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "component": "Footer",
+                "copyright": "Copyright © 2018 Stackbit",
+                "links": [
+                  {
+                    "href": "/jobs",
+                    "title": "Jobs"
+                  },
+                  {
+                    "href": "/tos",
+                    "title": "Terms"
+                  }
+                ]
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
           }
         ],
         "site": {
@@ -3045,46 +2841,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -3095,7 +2851,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3d4424d2c50fa056a7adccc83bf198a2",
+        "contentDigest": "e20e00a601e3cf86bbea4d84a5b169e3",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3267,141 +3023,6 @@
             }
           },
           {
-            "url": "/medium/",
-            "relativePath": "medium.md",
-            "relativeDir": "",
-            "frontmatter": {
-              "title": "Medium",
-              "header": {
-                "component": "Header",
-                "navItems": [
-                  {
-                    "href": "https://app.stackbit.com/",
-                    "title": "Log In"
-                  }
-                ],
-                "actionItem": {
-                  "href": "/beta/",
-                  "title": "Join the Beta"
-                },
-                "inversed": false
-              },
-              "hero": {
-                "component": "Hero",
-                "heading": "Migrating your medium blog has never been easier.",
-                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
-                "contact": {
-                  "text": "Need a hand? No worries! We can help.",
-                  "link": {
-                    "text": "Chat with Ohad now →",
-                    "url": null
-                  }
-                },
-                "displayImage": true,
-                "tweets": {
-                  "heading": "What are people saying?",
-                  "tweetImage": true
-                },
-                "openFile": {
-                  "displayDirections": true,
-                  "directions": [
-                    {
-                      "text": "Go to \"medium\" settings"
-                    },
-                    {
-                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
-                    },
-                    {
-                      "text": "Drag and drop the .zip from medium to this screen"
-                    }
-                  ]
-                },
-                "checklist": {
-                  "listItems": [
-                    {
-                      "text": "Completly FREE"
-                    },
-                    {
-                      "text": "Own Your Content"
-                    },
-                    {
-                      "text": "Fast, Scalable and Cheap"
-                    }
-                  ]
-                }
-              },
-              "features": {
-                "component": "Features",
-                "heading": "This is a title that has not yet been defined",
-                "subheading": "How it works",
-                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
-                "featuresList": [
-                  {
-                    "image": "hour-glass.svg",
-                    "title": "Import Your Medium Blog",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "circles.svg",
-                    "title": "Adjust Your Theme's Appearence",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "connection.svg",
-                    "title": "Voilà! It’s live 🎉",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  }
-                ]
-              },
-              "videoSection": {
-                "component": "VideoSection",
-                "heading": "Watch the demo",
-                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
-                "directions": [
-                  {
-                    "text": "Go to Medium \"Settings\""
-                  },
-                  {
-                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
-                  },
-                  {
-                    "text": "Drag and drop your .zip from Medium to this screen"
-                  }
-                ]
-              },
-              "genericSection": {
-                "component": "GenericSection",
-                "heading": "Start your migration",
-                "subheading": "Drag & Drop your ZIP into the window"
-              },
-              "openFile": {
-                "component": "OpenFile",
-                "displayDirections": false
-              },
-              "footer": {
-                "component": "Footer",
-                "copyright": "Copyright © 2018 Stackbit",
-                "links": [
-                  {
-                    "href": "/jobs",
-                    "title": "Jobs"
-                  },
-                  {
-                    "href": "/tos",
-                    "title": "Terms"
-                  }
-                ]
-              },
-              "menus": {
-                "main": {
-                  "title": "Medium",
-                  "weight": 3
-                }
-              },
-              "template": "MediumLayout"
-            }
-          },
-          {
             "url": "/tos/",
             "relativePath": "tos.md",
             "relativeDir": "",
@@ -3558,6 +3179,141 @@
               },
               "template": "SingleColumnLayout"
             }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "component": "Header",
+                "navItems": [
+                  {
+                    "href": "https://app.stackbit.com/",
+                    "title": "Log In"
+                  }
+                ],
+                "actionItem": {
+                  "href": "/beta/",
+                  "title": "Join the Beta"
+                },
+                "inversed": false
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "displayImage": true,
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweetImage": true
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "component": "Footer",
+                "copyright": "Copyright © 2018 Stackbit",
+                "links": [
+                  {
+                    "href": "/jobs",
+                    "title": "Jobs"
+                  },
+                  {
+                    "href": "/tos",
+                    "title": "Terms"
+                  }
+                ]
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
           }
         ],
         "site": {
@@ -3580,46 +3336,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -3630,7 +3346,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "62f8e287b40d381f4ee6fad5c4082feb",
+        "contentDigest": "3c6eba12ab5a96a9d122bc1453ea81cf",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3864,141 +3580,6 @@
             }
           },
           {
-            "url": "/medium/",
-            "relativePath": "medium.md",
-            "relativeDir": "",
-            "frontmatter": {
-              "title": "Medium",
-              "header": {
-                "component": "Header",
-                "navItems": [
-                  {
-                    "href": "https://app.stackbit.com/",
-                    "title": "Log In"
-                  }
-                ],
-                "actionItem": {
-                  "href": "/beta/",
-                  "title": "Join the Beta"
-                },
-                "inversed": false
-              },
-              "hero": {
-                "component": "Hero",
-                "heading": "Migrating your medium blog has never been easier.",
-                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
-                "contact": {
-                  "text": "Need a hand? No worries! We can help.",
-                  "link": {
-                    "text": "Chat with Ohad now →",
-                    "url": null
-                  }
-                },
-                "displayImage": true,
-                "tweets": {
-                  "heading": "What are people saying?",
-                  "tweetImage": true
-                },
-                "openFile": {
-                  "displayDirections": true,
-                  "directions": [
-                    {
-                      "text": "Go to \"medium\" settings"
-                    },
-                    {
-                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
-                    },
-                    {
-                      "text": "Drag and drop the .zip from medium to this screen"
-                    }
-                  ]
-                },
-                "checklist": {
-                  "listItems": [
-                    {
-                      "text": "Completly FREE"
-                    },
-                    {
-                      "text": "Own Your Content"
-                    },
-                    {
-                      "text": "Fast, Scalable and Cheap"
-                    }
-                  ]
-                }
-              },
-              "features": {
-                "component": "Features",
-                "heading": "This is a title that has not yet been defined",
-                "subheading": "How it works",
-                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
-                "featuresList": [
-                  {
-                    "image": "hour-glass.svg",
-                    "title": "Import Your Medium Blog",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "circles.svg",
-                    "title": "Adjust Your Theme's Appearence",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  },
-                  {
-                    "image": "connection.svg",
-                    "title": "Voilà! It’s live 🎉",
-                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
-                  }
-                ]
-              },
-              "videoSection": {
-                "component": "VideoSection",
-                "heading": "Watch the demo",
-                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
-                "directions": [
-                  {
-                    "text": "Go to Medium \"Settings\""
-                  },
-                  {
-                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
-                  },
-                  {
-                    "text": "Drag and drop your .zip from Medium to this screen"
-                  }
-                ]
-              },
-              "genericSection": {
-                "component": "GenericSection",
-                "heading": "Start your migration",
-                "subheading": "Drag & Drop your ZIP into the window"
-              },
-              "openFile": {
-                "component": "OpenFile",
-                "displayDirections": false
-              },
-              "footer": {
-                "component": "Footer",
-                "copyright": "Copyright © 2018 Stackbit",
-                "links": [
-                  {
-                    "href": "/jobs",
-                    "title": "Jobs"
-                  },
-                  {
-                    "href": "/tos",
-                    "title": "Terms"
-                  }
-                ]
-              },
-              "menus": {
-                "main": {
-                  "title": "Medium",
-                  "weight": 3
-                }
-              },
-              "template": "MediumLayout"
-            }
-          },
-          {
             "url": "/tos/",
             "relativePath": "tos.md",
             "relativeDir": "",
@@ -4155,6 +3736,141 @@
               },
               "template": "SingleColumnLayout"
             }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "component": "Header",
+                "navItems": [
+                  {
+                    "href": "https://app.stackbit.com/",
+                    "title": "Log In"
+                  }
+                ],
+                "actionItem": {
+                  "href": "/beta/",
+                  "title": "Join the Beta"
+                },
+                "inversed": false
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "displayImage": true,
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweetImage": true
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "component": "Footer",
+                "copyright": "Copyright © 2018 Stackbit",
+                "links": [
+                  {
+                    "href": "/jobs",
+                    "title": "Jobs"
+                  },
+                  {
+                    "href": "/tos",
+                    "title": "Terms"
+                  }
+                ]
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
           }
         ],
         "site": {
@@ -4177,46 +3893,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -4227,7 +3903,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "98c54c56c730bd95cad0521c145481c4",
+        "contentDigest": "a6f0bfdf331d23db164bc40995c2760b",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -4328,6 +4004,170 @@
       ],
       "children": [],
       "parent": null
+    },
+    "a4539b17-6909-5975-9bdb-f0c96c25ab5a": {
+      "id": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
+      "children": [],
+      "parent": "489fd814-2cd1-5b7c-9fef-38eb326d24c0",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "9f8492548347a769ce7be9cc816c74bb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "url": "gatsby-remark-page-creator",
+          "absolutePath": "gatsby-remark-page-creator",
+          "relativePath": "gatsby-remark-page-creator",
+          "absoluteDir": "gatsby-remark-page-creator",
+          "relativeDir": "gatsby-remark-page-creator",
+          "base": "gatsby-remark-page-creator",
+          "ext": "gatsby-remark-page-creator",
+          "name": "gatsby-remark-page-creator"
+        }
+      },
+      "frontmatter": {
+        "title": "Medium",
+        "header": {
+          "component": "Header",
+          "navItems": [
+            {
+              "href": "https://app.stackbit.com/",
+              "title": "Log In"
+            }
+          ],
+          "actionItem": {
+            "href": "/beta/",
+            "title": "Join the Beta"
+          },
+          "inversed": false
+        },
+        "hero": {
+          "component": "Hero",
+          "heading": "Migrating your medium blog has never been easier.",
+          "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+          "contact": {
+            "text": "Need a hand? No worries! We can help.",
+            "link": {
+              "text": "Chat with Ohad now →",
+              "url": null
+            }
+          },
+          "displayImage": true,
+          "tweets": {
+            "heading": "What are people saying?",
+            "tweetImage": true
+          },
+          "openFile": {
+            "displayDirections": true,
+            "directions": [
+              {
+                "text": "Go to \"medium\" settings"
+              },
+              {
+                "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+              },
+              {
+                "text": "Drag and drop the .zip from medium to this screen"
+              }
+            ]
+          },
+          "checklist": {
+            "listItems": [
+              {
+                "text": "Completly FREE"
+              },
+              {
+                "text": "Own Your Content"
+              },
+              {
+                "text": "Fast, Scalable and Cheap"
+              }
+            ]
+          }
+        },
+        "features": {
+          "component": "Features",
+          "heading": "This is a title that has not yet been defined",
+          "subheading": "How it works",
+          "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+          "featuresList": [
+            {
+              "image": "hour-glass.svg",
+              "title": "Import Your Medium Blog",
+              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+            },
+            {
+              "image": "circles.svg",
+              "title": "Adjust Your Theme's Appearence",
+              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+            },
+            {
+              "image": "connection.svg",
+              "title": "Voilà! It’s live 🎉",
+              "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+            }
+          ]
+        },
+        "videoSection": {
+          "component": "VideoSection",
+          "heading": "Watch the demo",
+          "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+          "directions": [
+            {
+              "text": "Go to Medium \"Settings\""
+            },
+            {
+              "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+            },
+            {
+              "text": "Drag and drop your .zip from Medium to this screen"
+            }
+          ]
+        },
+        "genericSection": {
+          "component": "GenericSection",
+          "heading": "Start your migration",
+          "subheading": "Drag & Drop your ZIP into the window"
+        },
+        "openFile": {
+          "component": "OpenFile",
+          "displayDirections": false
+        },
+        "footer": {
+          "component": "Footer",
+          "copyright": "Copyright © 2018 Stackbit",
+          "links": [
+            {
+              "href": "/jobs",
+              "title": "Jobs"
+            },
+            {
+              "href": "/tos",
+              "title": "Terms"
+            }
+          ]
+        },
+        "menus": {
+          "main": {
+            "title": "Medium",
+            "weight": 3
+          }
+        },
+        "template": "SingleColumnLayout"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
+      "fields": {
+        "url": "/medium/",
+        "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
+        "relativePath": "medium.md",
+        "absoluteDir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
+        "relativeDir": "",
+        "base": "medium.md",
+        "ext": ".md",
+        "name": "medium"
+      }
     }
   },
   "status": {
@@ -4356,7 +4196,7 @@
         "/tos/",
         "/jobs/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/tannersmith/medium_landing/stackbit-www-components/.cache/dev-404-page.js": {
       "query": "",
