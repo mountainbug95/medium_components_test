@@ -4,7 +4,7 @@ is_partial: false
 fields:
   - type: field_group
     name: header
-    label: Header
+    label: Header t2
     description: The header of the page
     config:
       required: true
