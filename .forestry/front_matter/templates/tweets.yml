@@ -1,0 +1,16 @@
+---
+label: Tweets Section
+hide_body: true
+is_partial: true
+fields:
+  - type: text
+    name: heading
+    label: Section Heading
+    description: The text displayed at the top of the section
+    config:
+      required: true
+  - type: boolean
+    name: tweetImage
+    label: Display Tweet Image (this is temporary)
+    description: Displays the tweet image
+    default: false

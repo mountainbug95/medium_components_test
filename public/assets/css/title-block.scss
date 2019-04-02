@@ -1,0 +1,19 @@
+
+
+@import "imports/variables.scss";
+
+.title-block {
+    margin-bottom: $large;
+    
+    h1 {
+        color: $blue;
+        margin: 0;
+    }
+
+    h2 {
+        font-size: $small;
+        line-height: 32px;
+        font-weight: 400;
+        margin: 0;
+    }
+}

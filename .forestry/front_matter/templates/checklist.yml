@@ -1,0 +1,16 @@
+---
+label: Checklist Section
+hide_body: true
+is_partial: true
+fields:
+  - type: field_group_list
+    name: listItems
+    label: List Items
+    description: The items displayed in the checklist
+    config:
+      labelField: text
+    fields:
+      - type: text
+        name: text
+        label: Item Text
+        description: The text displayed next to the check

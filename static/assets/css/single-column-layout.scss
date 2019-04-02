@@ -1,0 +1,24 @@
+@import "imports/variables.scss";
+
+.single-column {
+    width: 100%;
+    
+    .container {
+        box-sizing: border-box;
+        width: 100%;
+
+        max-width: 1360px;
+        margin-left: auto;
+        margin-right: auto; 
+
+        padding: 0 $tiny;
+
+        @media screen and (min-width: $tablet) {
+          padding: 0 $small;
+        }
+
+        &.full-width {
+          max-width: 100%;
+        }
+    }
+}

@@ -1,0 +1,46 @@
+---
+label: containerLayout
+is_partial: false
+fields:
+  - type: field_group
+    name: header
+    label: Header
+    description: The header of the page
+    config:
+      required: true
+    fields:
+      - type: include
+        name: include_header
+        label: Header
+        template: header
+  - type: field_group
+    name: footer
+    label: Footer
+    description: The footer of the page
+    config:
+      required: true
+    fields:
+      - type: include
+        name: include_footer
+        label: Footer
+        template: footer
+  - type: blocks
+    name: sections
+    label: Sections
+    description: Home sections
+    template_types:
+      - heroPrimary
+      - stackItems
+      - banner
+      - twoColumnBlock
+      - titleBlock
+      - jobs
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: ContainerLayout
+    config:
+      required: true
+pages:
+  - tos.md

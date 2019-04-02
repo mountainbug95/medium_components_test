@@ -1,0 +1,37 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: static/admin
+webhook_url: null
+sections:
+  - type: document
+    label: Global Site Config
+    path: site-metadata.json
+    templates:
+      - config
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: containerLayouts
+    create: all
+    templates:
+      - containerLayout
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: singleColumnLayouts
+    create: all
+    templates:
+      - singleColumnLayout
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: Medium Landings
+    create: all
+    templates:
+      - MediumLayout
+upload_dir: static/images
+public_path: /images
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ':filename:'

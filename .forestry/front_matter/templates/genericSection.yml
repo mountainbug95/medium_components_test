@@ -1,0 +1,23 @@
+---
+label: Generic Section
+hide_body: true
+is_partial: true
+fields:
+  - type: text
+    name: heading
+    label: Section Heading
+    description: The large text displayed at the top of the section
+    config:
+      required: true
+  - type: text
+    name: subheading
+    label: Section Subheading
+    description: The smaller text displayed below the section heading
+  - type: textarea
+    name: content
+    label: Section Content
+    description: The markdown content displayed below the section subheading
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown

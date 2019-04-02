@@ -1,0 +1,23 @@
+---
+label: Open File Section
+hide_body: true
+is_partial: true
+fields:
+  - type: boolean
+    name: displayDirections
+    label: Display Directions
+    description: Display a set of directions above the file drop section
+    default: false
+  - type: field_group_list
+    name: directions
+    label: Directions
+    description: Open file directions
+    config:
+      labelField: text
+    fields:
+      - type: text
+        name: text
+        label: Text
+        description: The text displayed for the direction item
+        config:
+          required: true
