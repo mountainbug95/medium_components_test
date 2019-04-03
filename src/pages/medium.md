@@ -97,5 +97,5 @@ menus:
   main:
     title: Medium
     weight: 3
-template: SingleColumnLayout
+template: MediumLayout
 ---

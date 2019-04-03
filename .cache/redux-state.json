@@ -1414,7 +1414,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "c54f2833ee363c3a840b88a9845e4a64",
+        "contentDigest": "d7932f3391ddff92f2f20b63840253d7",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/medium.md\"",
@@ -1424,11 +1424,11 @@
       "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/medium.md",
       "relativePath": "medium.md",
       "extension": "md",
-      "size": 3379,
-      "prettySize": "3.38 kB",
-      "modifiedTime": "2019-04-02T23:55:37.019Z",
-      "accessTime": "2019-04-02T23:55:37.018Z",
-      "changeTime": "2019-04-02T23:55:37.019Z",
+      "size": 3373,
+      "prettySize": "3.37 kB",
+      "modifiedTime": "2019-04-02T23:58:13.230Z",
+      "accessTime": "2019-04-02T23:56:47.312Z",
+      "changeTime": "2019-04-02T23:58:13.230Z",
       "birthTime": "2019-03-28T23:07:07.753Z",
       "root": "/",
       "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
@@ -1445,13 +1445,13 @@
       "blksize": 4096,
       "ino": 4172377,
       "blocks": 8,
-      "atimeMs": 1554249337018.2915,
-      "mtimeMs": 1554249337019.3315,
-      "ctimeMs": 1554249337019.3315,
+      "atimeMs": 1554249407311.8066,
+      "mtimeMs": 1554249493230.4668,
+      "ctimeMs": 1554249493230.4668,
       "birthtimeMs": 1553814427752.8845,
-      "atime": "2019-04-02T23:55:37.018Z",
-      "mtime": "2019-04-02T23:55:37.019Z",
-      "ctime": "2019-04-02T23:55:37.019Z",
+      "atime": "2019-04-02T23:56:47.312Z",
+      "mtime": "2019-04-02T23:58:13.230Z",
+      "ctime": "2019-04-02T23:58:13.230Z",
       "birthtime": "2019-03-28T23:07:07.753Z"
     },
     "3135974a-766c-5de6-9fa0-c95dfb2a06d2": {
@@ -2235,7 +2235,7 @@
                   "weight": 3
                 }
               },
-              "template": "SingleColumnLayout"
+              "template": "MediumLayout"
             }
           }
         ],
@@ -2269,7 +2269,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "18a04d39affd940e8c1075ede1311c97",
+        "contentDigest": "ad5d10b8df5668a4d06c56390e149686",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -2413,7 +2413,7 @@
               "weight": 3
             }
           },
-          "template": "SingleColumnLayout"
+          "template": "MediumLayout"
         },
         "html": "",
         "pages": [
@@ -2817,7 +2817,7 @@
                   "weight": 3
                 }
               },
-              "template": "SingleColumnLayout"
+              "template": "MediumLayout"
             }
           }
         ],
@@ -2851,7 +2851,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e20e00a601e3cf86bbea4d84a5b169e3",
+        "contentDigest": "736816ea31dbd765f76e52ee2afd42a6",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3312,7 +3312,7 @@
                   "weight": 3
                 }
               },
-              "template": "SingleColumnLayout"
+              "template": "MediumLayout"
             }
           }
         ],
@@ -3346,7 +3346,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3c6eba12ab5a96a9d122bc1453ea81cf",
+        "contentDigest": "45528cca402ae466f98c515c56a008e8",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3869,7 +3869,7 @@
                   "weight": 3
                 }
               },
-              "template": "SingleColumnLayout"
+              "template": "MediumLayout"
             }
           }
         ],
@@ -3903,7 +3903,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a6f0bfdf331d23db164bc40995c2760b",
+        "contentDigest": "2c67d99e073dda50296861acdcb8185c",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -4012,7 +4012,7 @@
       "internal": {
         "content": "",
         "type": "MarkdownRemark",
-        "contentDigest": "9f8492548347a769ce7be9cc816c74bb",
+        "contentDigest": "20bc5f3920c76ddd6d6ad0f2b5f4be91",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "url": "gatsby-remark-page-creator",
@@ -4153,7 +4153,7 @@
             "weight": 3
           }
         },
-        "template": "SingleColumnLayout"
+        "template": "MediumLayout"
       },
       "excerpt": "",
       "rawMarkdownBody": "",
