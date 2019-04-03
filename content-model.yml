@@ -10,6 +10,8 @@ models:
     type: page
     label: Medium Landing
     template: MediumLayout
+    singleInstance: true
+    file: medium.md
     fields:
       - type: header
         name: header
@@ -44,6 +46,8 @@ models:
     type: page
     label: containerLayout
     template: ContainerLayout
+    singleInstance: true
+    file: tos.md
     fields:
       - type: header
         name: header

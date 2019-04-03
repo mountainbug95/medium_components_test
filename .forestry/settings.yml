@@ -9,23 +9,20 @@ sections:
     path: site-metadata.json
     templates:
       - config
-  - type: directory
-    path: src/pages
-    match: '**/*'
-    label: Medium Landings
-    create: all
+  - type: document
+    label: Medium Landing
+    path: src/pages/medium.md
     templates:
       - MediumLayout
-  - type: directory
-    path: src/pages
-    match: '**/*'
-    label: containerLayouts
-    create: all
+  - type: document
+    label: containerLayout
+    path: src/pages/tos.md
     templates:
       - containerLayout
   - type: directory
     path: src/pages
     match: '**/*'
+    exclude: '{medium.md,tos.md}'
     label: singleColumnLayouts
     create: all
     templates:
