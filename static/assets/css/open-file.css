@@ -1,5 +1,7 @@
 .hero-ofd{
     margin-bottom: 50px;
+    position: relative;
+    z-index: 6;
 }
 
 @media (max-width: 1260px) {

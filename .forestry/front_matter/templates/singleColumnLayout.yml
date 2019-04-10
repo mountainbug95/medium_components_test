@@ -43,5 +43,5 @@ fields:
     config:
       required: true
 pages:
-  - index.md
-  - jobs.md
+  - src/pages/index.md
+  - src/pages/jobs.md

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../assets/css/hero.css';
+import '../../static/assets/css/hero.css';
 import OpenFile from './OpenFile';
 import CheckList from './CheckList';
 import Tweets from './Tweets';
@@ -26,7 +26,7 @@ class Hero extends Component {
                                 <div class="hh-contact">
                                     {
                                         this.props.displayImage ?
-                                        <img src={require("../assets/images/icons/Ohad-thumbnail.jpg")} class="contact-thumbnail" alt="Contact Us" />
+                                        <img src={require("../../static/images/icons/Ohad-thumbnail.jpg")} class="contact-thumbnail" alt="Contact Us" />
                                         : null
                                     }
                                     <span>

@@ -1,0 +1,13 @@
+---
+label: BetaSignUp
+is_partial: false
+fields:
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: BetaSignUp
+    config:
+      required: true
+pages:
+  - src/pages/beta.md

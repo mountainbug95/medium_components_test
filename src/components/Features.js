@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../assets/css/features.css';
+import '../../static/assets/css/features.css';
 import markdownify from '../utils/markdownify';
 
 class Features extends Component {
@@ -35,7 +35,7 @@ class Features extends Component {
                                 <li>
                                     {
                                         feature.image ?
-                                        <img src={require("../assets/images/" + feature.image)} alt="Import your medium blog" />
+                                        <img src={require("../../static/images/" + feature.image)} alt="Import your medium blog" />
                                         : null
                                     }
                                     <p>

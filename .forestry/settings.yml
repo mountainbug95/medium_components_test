@@ -9,24 +9,34 @@ sections:
     path: site-metadata.json
     templates:
       - config
-  - type: document
-    label: Medium Landing
-    path: src/pages/medium.md
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: Medium Landings
+    create: all
     templates:
       - MediumLayout
-  - type: document
-    label: containerLayout
-    path: src/pages/tos.md
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: containerLayouts
+    create: all
     templates:
       - containerLayout
   - type: directory
     path: src/pages
     match: '**/*'
-    exclude: '{medium.md,tos.md}'
     label: singleColumnLayouts
     create: all
     templates:
       - singleColumnLayout
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: BetaSignUps
+    create: all
+    templates:
+      - BetaSignUp
 upload_dir: static/images
 public_path: /images
 front_matter_path: ''

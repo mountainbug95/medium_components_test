@@ -1,12 +1,13 @@
 import ContainerLayout from './layouts/ContainerLayout';
 import SingleColumnLayout from './layouts/SingleColumnLayout';
 import MediumLayout from './layouts/MediumLayout';
+import BetaSignUp from './layouts/BetaSignUp';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import HeroPrimary from './components/HeroPrimary';
 import StackItems from './components/StackItems';
 import GenericSection from './components/GenericSection';
-import Checklist from './components/Checklist';
+import Checklist from './components/CheckList';
 import Features from './components/Features';
 import Hero from './components/Hero';
 import OpenFile from './components/OpenFile';
@@ -21,6 +22,7 @@ export default {
     ContainerLayout,
     SingleColumnLayout,
     MediumLayout,
+    BetaSignUp,
     Footer,
     Header,
     HeroPrimary,
@@ -33,7 +35,7 @@ export default {
     Tweets,
     VideoSection,
     TwoColumnBlock,
-    TitleBlock, 
+    TitleBlock,
     Jobs,
     Banner
 };

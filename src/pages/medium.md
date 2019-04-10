@@ -20,10 +20,22 @@ hero:
     link:
       text: Chat with Ohad now →
       url: null
-  displayImage: true
   tweets:
     heading: What are people saying?
-    tweetImage: true
+    tweets_carousel:
+      - embed: "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I&#39;m absolutely blown away by how powerful Stackbit is! \U0001F92F <a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a></p>&mdash; Jannick Voss Haunstrup (@jannickvossh) <a href=\"https://twitter.com/jannickvossh/status/1106281786575851520?ref_src=twsrc%5Etfw\">March 14, 2019</a></blockquote>"
+      - embed: >-
+          <blockquote class="twitter-tweet" data-lang="en"><p lang="en"
+          dir="ltr">I built a static site on <a
+          href="https://twitter.com/stackbithq?ref_src=twsrc%5Etfw">@stackbithq</a>
+          so easily that I almost overlooked how powerful it is !! Just like <a
+          href="https://twitter.com/gatsbyjs?ref_src=twsrc%5Etfw">@gatsbyjs</a>
+          starters or <a
+          href="https://twitter.com/Netlify?ref_src=twsrc%5Etfw">@Netlify</a>
+          templates. Just wow !</p>&mdash; Bhavana (@bhavana1110) <a
+          href="https://twitter.com/bhavana1110/status/1112764030966468610?ref_src=twsrc%5Etfw">April
+          1, 2019</a></blockquote>
+      - embed: "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a> allows you to easily deploy a static site backed with a CMS. Amazing service.</p>&mdash; Jonny Goodwin \U0001F680 (@Jonny_Goodwin) <a href=\"https://twitter.com/Jonny_Goodwin/status/1108768178899951616?ref_src=twsrc%5Etfw\">March 21, 2019</a></blockquote>"
   openFile:
     displayDirections: true
     directions:

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../assets/css/open-file.css';
+import '../../static/assets/css/open-file.css';
 
 class OpenFile extends Component {
     render() {

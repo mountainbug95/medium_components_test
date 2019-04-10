@@ -43,4 +43,4 @@ fields:
     config:
       required: true
 pages:
-  - tos.md
+  - src/pages/tos.md

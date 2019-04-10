@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../assets/css/generic-section.css';
+import '../../static/assets/css/generic-section.css';
 import markdownify from '../utils/markdownify';
 
 class GenericSection extends Component {

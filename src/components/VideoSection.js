@@ -1,7 +1,7 @@
 
 import React, { Component } from 'react';
 
-import '../assets/css/video-section.css';
+import '../../static/assets/css/video-section.css';
 
 
 class VideoSection extends Component {

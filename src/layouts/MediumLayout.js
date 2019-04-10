@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../assets/css/index.css';
+import '../../static/assets/css/index.css';
 
 class MediumLayout extends Component {
     render() {
