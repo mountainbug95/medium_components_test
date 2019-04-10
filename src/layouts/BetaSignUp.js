@@ -13,12 +13,6 @@ class BetaSignUp extends Component {
                         <input type="hidden" className="hidden" name="bot-field"/>
                         <input type="hidden" name="form-name" value="beta"/>
                     </form>
-            
-            
-                    <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
-                        <input name="replyto" placeholder="Email Address" type="email" />
-                    </form>
-            
                 </section>
             </div>
         )
