@@ -1,5 +1,6 @@
 
 import React, { Component } from 'react';
+import { withPrefix } from 'gatsby';
 import PropTypes from 'prop-types';
 
 import '../../static/assets/css/banner.scss';
@@ -10,7 +11,7 @@ class Banner extends Component {
     bannerItem(item) {
         return (
             <div className="item">
-                <div><img src={item.image}/></div>
+                <div><img src={withPrefix(item.image)}/></div>
                 <h3>{item.title} <span>{item.subtitle}</span></h3>
             </div>
         )

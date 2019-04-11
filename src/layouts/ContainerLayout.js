@@ -8,7 +8,7 @@ class SingleColumnLayout extends Component {
             <div className="single-column">
                 {this.props.header}
                 {this.props.generic}
-                <div className="container">
+                <div className="container s-page">
                     {this.props.children}
                 </div>
                 {this.props.footer}

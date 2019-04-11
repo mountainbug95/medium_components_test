@@ -3,12 +3,6 @@ title: Jobs
 footer:
   type: footer
   component: Footer
-  copyright: Copyright © 2018 Stackbit
-  links:
-    - href: /jobs
-      title: Jobs
-    - href: /tos
-      title: Terms
 header:
   type: header
   component: Header

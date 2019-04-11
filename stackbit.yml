@@ -14,6 +14,53 @@ models:
     label: Global Site Config
     hideContent: true
     singleInstance: true
+    footer:
+      type: object
+      label: Footer Configuration
+      fields: 
+        - type: string
+          name: copyright
+          label: Copyright
+        - type: list
+          name: links
+          label: Links
+          items:
+            type: object
+            labelField: title
+            fields:
+              - type: string
+                name: href
+                label: Href
+              - type: string
+                name: title
+                label: Title
+    header:
+      type: object
+      label: Header Configuration
+      fields: 
+        - type: list
+          name: navItems
+          label: NavItems
+          items:
+            type: object
+            labelField: title
+            fields:
+              - type: string
+                name: href
+                label: Href
+              - type: string
+                name: title
+                label: Title
+        - type: object
+          name: actionItem
+          label: ActionItem
+          fields:
+            - type: string
+              name: href
+              label: Href
+            - type: string
+              name: title
+              label: Title
   MediumLayout:
     type: page
     label: Medium Landing
@@ -98,6 +145,7 @@ models:
     type: page
     label: BetaSignUp
     template: BetaSignUp
+
   genericSection:
     type: object
     label: Generic Section

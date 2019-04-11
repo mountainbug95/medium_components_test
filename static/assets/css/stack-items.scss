@@ -45,7 +45,7 @@
       content: '';
       background: url(../../images/stack-items/dotted-line.png) repeat-y top center;
       background-size: 2px 12px;
-      height: calc(100% + 100px);
+      height: calc(100% + 280px);
       width: $medium;
       display: inline-block;
       position: relative;
@@ -55,6 +55,7 @@
     
       @media screen and (min-width: $desktop) {
         width: calc(100% / 3);
+        height: calc(100% + 120px);
         margin-left: 0;
       }
     
@@ -614,5 +615,12 @@
         }
       }
     }
+  }
+
+  + .footer {
+    @media screen and (min-width: $desktop) {
+      margin-top: calc(#{$medium} - 484px);
+    }
+    z-index: 5;
   }
 }

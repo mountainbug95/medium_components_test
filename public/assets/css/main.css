@@ -302,7 +302,7 @@ body,
 section {
   margin: 0;
   padding: 0;
-  font-family: CircularStd, sans-serif;
+  font-family: Circular, sans-serif;
   font-size: 16px;
   color: #031E34;
   -webkit-font-smoothing: antialiased;
@@ -536,6 +536,3 @@ a:visited {
     cursor: pointer;
     color: #3EB2FD;
     font-weight: 500; }
-  .s-page + .footer {
-    clear: both;
-    margin-top: 1px; }

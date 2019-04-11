@@ -1,16 +1,18 @@
 import _ from 'lodash';
 import React from 'react';
 import ReactHtmlParser from 'react-html-parser';
+import '../../static/assets/css/main.scss';
 
 import COMPONENTS from '../index';
 
 
-import '../../static/assets/css/main.scss';
+
 
 export default class Page extends React.Component {
-
     render() {
-        const {template, sections} = this.props.pageContext.frontmatter;
+        const {site, frontmatter} = this.props.pageContext;
+        const {template, sections} = frontmatter;
+
         const Layout = COMPONENTS[template];
 
         let layoutProps = {};
@@ -18,17 +20,15 @@ export default class Page extends React.Component {
             const prop = this.props.pageContext.frontmatter[field];
             if (prop.component) {
                 const Component = COMPONENTS[prop.component];
-                layoutProps[field] = <Component {...prop}/>;
+                layoutProps[field] = <Component site={site} {...prop}/>;
             } else {
                 // layoutProps[field] = prop;
             }
         });
 
-        console.log(layoutProps)
-
         const children = (sections || []).map((section) => {
             const Component = COMPONENTS[section.component];
-            return <Component {...section}/>;
+            return <Component site={site} {...section}/>;
         });
 
         return (

@@ -2,25 +2,10 @@
 title: Terms of Service
 footer:
   component: Footer
-  copyright: Copyright © 2018 Stackbit
-  links:
-    - href: /jobs
-      title: Jobs
-    - href: /tos
-      title: Terms
 header:
   component: Header
-  navItems:
-    - href: 'https://app.stackbit.com/'
-      title: Log In
-  actionItem:
-    href: /beta/
-    title: Join the Beta
+  backgroundImage: images/detail-bg.jpg
   inversed: false
-generic:
-  component: GenericSection
-  heading: Start your migration
-  subheading: Drag & Drop your ZIP into the window
 menus:
   main:
     title: Terms of Service

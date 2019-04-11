@@ -21,8 +21,18 @@
     },
     {
         "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "license-ae3",
+        "path": "/license/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
         "jsonName": "medium-c21",
         "path": "/medium/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "privacy-06e",
+        "path": "/privacy/"
     },
     {
         "componentChunkName": "component---src-templates-page-js",

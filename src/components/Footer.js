@@ -12,7 +12,7 @@ class Footer extends Component {
         return (
             <footer className="footer">
                 <div className="container">
-                    <img className="footer-logo" src={require("../../static/images/logo-white.svg")}  height="24" width="157"/>
+                    <a href="/"><img className="footer-logo" src={require("../../static/images/logo-white.svg")}  height="24" width="157"/></a>
                     <div className="copyright">
                         <div>
                             {links.map(link => <a href={link.href}>{link.title}</a>).reduce((prev, curr) => [prev, ' - ', curr])}

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import '../../static/assets/css/index.css';
+import '../../static/assets/css/medium.css';
 
 class MediumLayout extends Component {
     render() {
         return (
-            <div class="outer">
+            <div class="medium outer">
                 {this.props.header}
                 {this.props.hero}
                 {this.props.features}

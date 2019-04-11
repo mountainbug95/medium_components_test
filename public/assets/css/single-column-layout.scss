@@ -11,10 +11,10 @@
         margin-left: auto;
         margin-right: auto; 
 
-        padding: 0 $tiny;
+        padding: $small $tiny;
 
         @media screen and (min-width: $tablet) {
-          padding: 0 $small;
+          padding: $small $small;
         }
 
         &.full-width {

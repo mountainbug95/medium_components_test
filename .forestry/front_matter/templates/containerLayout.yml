@@ -43,4 +43,6 @@ fields:
     config:
       required: true
 pages:
+  - src/pages/license.md
+  - src/pages/privacy.md
   - src/pages/tos.md

@@ -1,15 +1,35 @@
 {
     "header": {
         "content": "Stackbit Vanilla",
-        "has_nav": true
+        "has_nav": true,
+        "backgroundImage": "images/hero-bg.jpg",
+        "navItems": [{
+            "href": "https://app.stackbit.com/",
+            "title": "Log In"
+        }],
+        "actionItem": {
+            "href": "/beta/",
+            "title": "Join the Beta"
+        }             
     },
     "footer": {
-        "content": "&copy; Stackbit-Vanilla. All rights reserved.",
+        "copyright": "Copyright © 2018 Stackbit",
         "links": [
             {
-                "text": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "new_window": true
+                "href": "/jobs",
+                "title": "Jobs"
+            },
+            {
+                "href": "/tos",
+                "title": "Terms"
+            },
+            {
+                "href": "/license",
+                "title": "License"
+            },
+            {
+                "href": "/privacy",
+                "title": "Privacy"
             }
         ]
     },

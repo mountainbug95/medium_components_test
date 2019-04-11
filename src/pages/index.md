@@ -3,22 +3,10 @@ title: Home
 footer:
   type: footer
   component: Footer
-  copyright: Copyright © 2018 Stackbit
-  links:
-    - href: /jobs
-      title: Jobs
-    - href: /tos
-      title: Terms
 header:
   type: header
   component: Header
   backgroundImage: images/hero-bg.jpg
-  navItems:
-    - href: 'https://app.stackbit.com/'
-      title: Log In
-  actionItem:
-    href: /beta/
-    title: Join the Beta
   inversed: true
 sections:
   - name: hero

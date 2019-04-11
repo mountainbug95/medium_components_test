@@ -5,7 +5,8 @@ import '../../static/assets/css/header.scss';
 
 class Header extends Component {
     render() {
-        const {navItems, actionItem, inversed, backgroundImage} = this.props;
+        const {navItems, actionItem} = this.props;
+        const {inversed, backgroundImage} = this.props;
         const inversedClassName = inversed ? 'inversed' : '';
         const arrowClassName = actionItem ? 'with-arrow' : '';
         const logoImage = inversed ? require('../../static/images/header/logo.svg')

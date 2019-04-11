@@ -1,9 +1,12 @@
+import _ from 'lodash';
+import React, { Component } from 'react';
+
 import ContainerLayout from './layouts/ContainerLayout';
 import SingleColumnLayout from './layouts/SingleColumnLayout';
 import MediumLayout from './layouts/MediumLayout';
 import BetaSignUp from './layouts/BetaSignUp';
-import Header from './components/Header';
-import Footer from './components/Footer';
+import _Header from './components/Header';
+import _Footer from './components/Footer';
 import HeroPrimary from './components/HeroPrimary';
 import StackItems from './components/StackItems';
 import GenericSection from './components/GenericSection';
@@ -17,6 +20,20 @@ import TitleBlock from './components/TitleBlock';
 import TwoColumnBlock from './components/TwoColumnBlock';
 import Jobs from './components/Jobs';
 import Banner from './components/Banner';
+
+function withTransform(Component, transform) {
+    return (props) => {
+        return <Component {...transform(props)}/>
+    }
+}
+
+const Footer = withTransform(_Footer, props => {
+    return Object.assign(_.get(props, 'site.siteMetadata.footer', {}), props);
+});
+
+const Header = withTransform(_Header, props => {
+    return Object.assign(_.get(props, 'site.siteMetadata.header', {}), props);
+});
 
 export default {
     ContainerLayout,
