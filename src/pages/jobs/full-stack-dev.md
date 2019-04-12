@@ -1,7 +1,7 @@
 ---
 title: Full Stack Developer
 template: JobLayout
-location: Stackbit HQ (San Francisco), Remote
+location: 'Stackbit HQ (San Francisco), Remote'
 experienceLevel: Senior
 ---
 
