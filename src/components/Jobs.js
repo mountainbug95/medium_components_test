@@ -8,26 +8,28 @@ import '../../static/assets/css/jobs.scss';
 class Jobs extends Component {
 
     jobItem(job) {
-        const {title, location} = job;
+        const {href, title, location} = job;
         return (
-            <div className="card">
-                <h3>{title}</h3>
-                <p>{location}</p>
-            </div>
+            <a key={href} href={href}>
+                <div className="card">
+                    <h3>{title}</h3>
+                    <p>{location}</p>
+                </div>
+            </a>
         );
     }
 
     render() {
         const {title, jobs} = this.props;
         return (
-            <div className="jobs">
+            <div id="open-positions" className="jobs">
                 <div className="container">
                     <h1>{title}</h1>  
                     <div className="job-list">
                         {jobs.map(job => this.jobItem(job))}
                     </div>
                     <div className="passive-cta">
-                        Don't see a position that fits your skill set? <a href="mailto:jobs@stackbit.com" class="text-link">Contact us</a>.
+                        Don't see a position that fits your skill set? <a href="mailto:jobs@stackbit.com" className="text-link">Contact us</a>.
                     </div>
                 </div>
             </div>

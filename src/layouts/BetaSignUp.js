@@ -4,7 +4,7 @@ import '../../static/assets/css/form.scss';
 class BetaSignUp extends Component {
     render() {
         return (
-            <>
+            <div className="background-image-beta header-beta">
                 {this.props.header}
                 <div className="contact">
                     <section className="container">
@@ -17,8 +17,9 @@ class BetaSignUp extends Component {
                         </form>
                     </section>
                 </div>
+                {this.props.children}
                 {this.props.footer}
-            </>
+            </div>
         )
     }
 }

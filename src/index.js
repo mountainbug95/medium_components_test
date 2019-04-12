@@ -5,8 +5,6 @@ import ContainerLayout from './layouts/ContainerLayout';
 import SingleColumnLayout from './layouts/SingleColumnLayout';
 import MediumLayout from './layouts/MediumLayout';
 import BetaSignUp from './layouts/BetaSignUp';
-import _Header from './components/Header';
-import _Footer from './components/Footer';
 import HeroPrimary from './components/HeroPrimary';
 import StackItems from './components/StackItems';
 import GenericSection from './components/GenericSection';
@@ -18,8 +16,13 @@ import Tweets from './components/Tweets';
 import VideoSection from './components/VideoSection';
 import TitleBlock from './components/TitleBlock';
 import TwoColumnBlock from './components/TwoColumnBlock';
-import Jobs from './components/Jobs';
 import Banner from './components/Banner';
+
+import _Header from './components/Header';
+import _Footer from './components/Footer';
+import _JobLayout from './layouts/JobLayout';
+import _Jobs from './components/Jobs';
+
 
 function withTransform(Component, transform) {
     return (props) => {
@@ -28,11 +31,33 @@ function withTransform(Component, transform) {
 }
 
 const Footer = withTransform(_Footer, props => {
-    return Object.assign(_.get(props, 'site.siteMetadata.footer', {}), props);
+    return Object.assign(_.get(props, 'context.site.siteMetadata.footer', {}), props);
 });
 
 const Header = withTransform(_Header, props => {
-    return Object.assign(_.get(props, 'site.siteMetadata.header', {}), props);
+    return Object.assign(_.get(props, 'context.site.siteMetadata.header', {}), props);
+});
+
+const Jobs = withTransform(_Jobs, props => {
+    return Object.assign({
+        jobs: _.get(props, 'context.pages', [])
+                    .filter(page => page.relativeDir === 'jobs')
+                    .map(page => {
+                        return {
+                            ...page.frontmatter,
+                            href: page.url
+                        }
+                    })
+    }, props);
+});
+
+const JobLayout = withTransform(_JobLayout, props => {
+    return Object.assign({
+        header: _.get(props, 'context.site.siteMetadata.header', {}),
+        footer: _.get(props, 'context.site.siteMetadata.footer', {}),
+        url: props.context.url, 
+        ...props.context.frontmatter
+    }, props);
 });
 
 export default {
@@ -40,6 +65,7 @@ export default {
     SingleColumnLayout,
     MediumLayout,
     BetaSignUp,
+    JobLayout,
     Footer,
     Header,
     HeroPrimary,

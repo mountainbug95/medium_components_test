@@ -37,6 +37,13 @@ sections:
     create: all
     templates:
       - BetaSignUp
+  - type: directory
+    path: src/pages
+    match: '**/*'
+    label: JobLayouts
+    create: all
+    templates:
+      - JobLayout
 upload_dir: static/images
 public_path: /images
 front_matter_path: ''

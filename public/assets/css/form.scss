@@ -1,4 +1,6 @@
-
+html, body{
+    height: 100%;
+}
 
 @media screen and (min-width: 768px) and (min-height: 850px) {.beta-application.page .footer {
     position: absolute;
@@ -7,12 +9,11 @@
 }
 
 .contact {
-    background: url(/img/landing/hero-bg.jpg) no-repeat center bottom;
+    background: url(/images/hero-bg.jpg) no-repeat center bottom;
     background-size: cover;
     text-align: center;
     padding: 104px 0;
     box-sizing: border-box;
-    margin-top: 20vh;
 }
 
 @media screen and (min-width: 1440px) {
@@ -32,13 +33,13 @@
 }
 
 .contact h1 {
+    color: white;
     margin-bottom: 40px;
 }
 
 @media screen and (min-width: 768px) {
 
     .contact h1 {
-        color: white;
         margin-top: 40px
     }
 }
@@ -216,4 +217,99 @@
 .contact + .footer {
     clear: both;
     margin-top: 1px;
+}
+
+.header-beta{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.header-beta .footer{
+    height: 65.5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header-beta .footer .container{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+
+.header-beta .footer .container .social-links{
+    position: relative;
+    bottom: 0;
+    right: 10px;
+    bottom: 60px;
+    order: 3;
+    min-width: 80px;
+}
+
+.header-beta .footer .container .copyright{
+    order: 2;
+}
+
+.header-beta .footer .container a .footer-logo{
+    order: 1;
+    position: relative;
+    bottom: 0;
+    left: 10px;
+}
+
+@media screen and (max-width: 767px){
+    .header-beta .footer{
+        height: 52.3vh;
+    }
+}
+
+@media screen and (max-width: 560px){
+
+    .header-beta .footer{
+        height: 55vh;
+    }
+
+    .header-beta .footer .container{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .header-beta .footer .container .footer-logo{
+        left: 20px;
+        margin-top: 5px;
+        margin-bottom: 100px;
+        display: block;
+    }
+
+    .header-beta .footer .container .copyright{
+        position: relative;
+        bottom: 60px;
+        left: 20px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        display: block;
+    }
+
+    .header-beta .footer .container .social-links{
+        right: 0;
+        left: 20px;
+        bottom: 0px;
+        margin-top: 0px;
+        display: block;
+    }
+}
+
+.header-beta .header{
+    position: absolute;
+}
+
+.background-image-beta .header img{
+    display: none;
 }

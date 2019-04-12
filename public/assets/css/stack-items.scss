@@ -618,6 +618,7 @@
   }
 
   + .footer {
+    padding-top: calc(484px - #{$medium});
     @media screen and (min-width: $desktop) {
       margin-top: calc(#{$medium} - 484px);
     }

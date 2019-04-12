@@ -14,6 +14,7 @@ header:
     href: /beta/
     title: Join the Beta
   inversed: false
+  displayAction: true
 sections:
   - name: title
     type: titleBlock
@@ -67,9 +68,6 @@ sections:
     type: jobs
     component: Jobs
     title: Open Positions
-    jobs:
-      - title: Full Stack Developer
-        location: 'Stackbit HQ (San Francisco), Remote'
     template: jobs
 menus:
   main:

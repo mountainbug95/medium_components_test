@@ -3,14 +3,16 @@
         "content": "Stackbit Vanilla",
         "has_nav": true,
         "backgroundImage": "images/hero-bg.jpg",
-        "navItems": [{
-            "href": "https://app.stackbit.com/",
-            "title": "Log In"
-        }],
+        "navItems": [
+            {
+                "href": "https://app.stackbit.com/",
+                "title": "Log In"
+            }
+        ],
         "actionItem": {
             "href": "/beta/",
             "title": "Join the Beta"
-        }             
+        }
     },
     "footer": {
         "copyright": "Copyright © 2018 Stackbit",
@@ -32,6 +34,5 @@
                 "title": "Privacy"
             }
         ]
-    },
-    "title": "Stackbit Vanilla Theme"
+    }
 }

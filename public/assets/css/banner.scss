@@ -4,11 +4,7 @@
     background: $blue;
     text-align: center;
     padding: $large 0;
-    margin: 400px 0;
-
-    @media screen and (min-width: $tablet) {
-      margin: $xl 0;
-    }
+    margin: $large 0;
 
     h2, h3 {
       color: white;
@@ -41,5 +37,16 @@
         .item {
             flex: 1;
         }
+    }
+
+    @media screen and (max-width: $tablet) {
+      .items {
+        margin-top: $medium;
+
+        .item {
+          margin-top: $medium;
+          flex-basis: 100%;
+        }
+      }
     }
   }

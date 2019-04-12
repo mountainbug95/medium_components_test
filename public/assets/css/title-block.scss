@@ -3,7 +3,8 @@
 @import "imports/variables.scss";
 
 .title-block {
-    margin-bottom: $large;
+    margin-top: $large;
+    margin-bottom: $medium;
     
     h1 {
         color: $blue;

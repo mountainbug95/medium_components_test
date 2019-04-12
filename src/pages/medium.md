@@ -9,6 +9,7 @@ header:
     href: /beta/
     title: Join the Beta
   inversed: false
+  displayAction: true
 hero:
   component: Hero
   heading: Migrating your medium blog has never been easier.

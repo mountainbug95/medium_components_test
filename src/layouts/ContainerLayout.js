@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import '../../static/assets/css/single-column-layout.scss';
 
-class SingleColumnLayout extends Component {
+class ContainerLayout extends Component {
     render() {
         return (
             <div className="single-column">
@@ -17,4 +17,4 @@ class SingleColumnLayout extends Component {
     }
 }
 
-export default SingleColumnLayout;
+export default ContainerLayout;

@@ -145,7 +145,24 @@ models:
     type: page
     label: BetaSignUp
     template: BetaSignUp
-
+  JobLayout:
+    type: page
+    label: JobLayout
+    template: JobLayout
+    fields:
+      - type: string
+        name: title
+        label: Job Title
+        required: true
+        description: The title of the page
+      - type: string
+        name: location
+        label: Job Location
+        description: The location of the job
+      - type: string
+        name: experienceLevel
+        label: Experience Level
+        descriptiopn: The level of experience required for the job
   genericSection:
     type: object
     label: Generic Section

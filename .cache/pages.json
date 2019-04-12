@@ -21,6 +21,11 @@
     },
     {
         "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "jobs-full-stack-dev-9b1",
+        "path": "/jobs/full-stack-dev/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
         "jsonName": "license-ae3",
         "path": "/license/"
     },

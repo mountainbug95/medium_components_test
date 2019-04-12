@@ -496,6 +496,7 @@ a:visited {
       [class^="btn"].btn-primary {
         padding: 24px 40px; } }
     [class^="btn"].btn-primary:hover {
+      color: white;
       background-position: -80px; }
   [class^="btn"].btn-secondary {
     border: 2px solid #0495F3;

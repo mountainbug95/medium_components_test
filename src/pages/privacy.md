@@ -1,11 +1,12 @@
 ---
-title: Privacy
+title: Privacy Policy
 footer:
   component: Footer
 header:
   component: Header
   backgroundImage: images/detail-bg.jpg
   inversed: false
+  displayAction: true
 menus:
   main:
     title: Privacy

@@ -10,7 +10,7 @@ class Banner extends Component {
 
     bannerItem(item) {
         return (
-            <div className="item">
+            <div key={item.title} className="item">
                 <div><img src={withPrefix(item.image)}/></div>
                 <h3>{item.title} <span>{item.subtitle}</span></h3>
             </div>
