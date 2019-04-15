@@ -102,4 +102,11 @@
       max-width: 75%;
       height: auto;
     }
+
+
+    @media screen and (max-width: $tabletMax) {
+      img {
+        max-width: 100%;
+      }
+    }
   }

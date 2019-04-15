@@ -1,9 +1,8 @@
 ---
-title: Beta Sign Up
+title: Beta Application
 header:
   type: header
   component: Header
-  backgroundImage: images/hero-bg.jpg
   inversed: true
   displayAction: false
 footer:

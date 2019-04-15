@@ -2,6 +2,12 @@
 label: Medium Landing
 is_partial: false
 fields:
+  - type: text
+    name: title
+    label: Page Title
+    description: The title of the page
+    config:
+      required: true
   - type: field_group
     name: header
     label: Header

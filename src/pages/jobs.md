@@ -7,12 +7,6 @@ header:
   type: header
   component: Header
   backgroundImage: images/detail-bg.jpg
-  navItems:
-    - href: 'https://app.stackbit.com/'
-      title: Log In
-  actionItem:
-    href: /beta/
-    title: Join the Beta
   inversed: false
   displayAction: true
 sections:

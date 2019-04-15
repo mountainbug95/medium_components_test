@@ -3,9 +3,6 @@ label: Header
 hide_body: true
 is_partial: true
 fields:
-  - type: file
-    name: backgroundImage
-    label: background image
   - type: boolean
     name: inversed
     label: inversed

@@ -89,12 +89,12 @@
         &:not(.with-arrow) {
           font-weight: $light;
           opacity: .7;
-          margin: $micro;
+          margin: $tiny;
           order: 2;
   
           @media screen and (max-width: $tabletMax) {
             margin: 0;
-            padding: 6px 0 $micro 0;
+            padding: 12px 0 $micro 0;
             width: calc(100% - 303px);
   
             &.scrolling {

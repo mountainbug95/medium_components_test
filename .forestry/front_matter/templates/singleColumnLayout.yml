@@ -2,28 +2,21 @@
 label: singleColumnLayout
 is_partial: false
 fields:
+  - type: text
+    name: title
+    label: Page Title
+    description: The title of the page
+    config:
+      required: true
   - type: field_group
     name: header
-    label: Header t2
-    description: The header of the page
-    config:
-      required: true
+    label: Other Header Options
+    description: Some non global options for changing the page header.
     fields:
       - type: include
-        name: include_header
-        label: Header
-        template: header
-  - type: field_group
-    name: footer
-    label: Footer
-    description: The footer of the page
-    config:
-      required: true
-    fields:
-      - type: include
-        name: include_footer
-        label: Footer
-        template: footer
+        name: include_headerMisc
+        label: Other Header Options
+        template: headerMisc
   - type: blocks
     name: sections
     label: Sections
@@ -35,6 +28,13 @@ fields:
       - twoColumnBlock
       - titleBlock
       - jobs
+      - hero
+      - openFile
+      - checklist
+      - tweets
+      - features
+      - videoSection
+      - genericSection
   - type: text
     name: template
     label: Template

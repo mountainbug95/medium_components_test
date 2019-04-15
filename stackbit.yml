@@ -8,6 +8,8 @@ collections:
       - MediumLayout
       - containerLayout
       - singleColumnLayout
+      - BetaSignUp
+      - JobLayout
 models:
   config:
     type: config
@@ -28,6 +30,11 @@ models:
     label: Medium Landing
     template: MediumLayout
     fields:
+      - type: string
+        name: title
+        label: Page Title
+        required: true
+        description: The title of the page
       - type: header
         name: header
         label: Header
@@ -62,16 +69,15 @@ models:
     label: containerLayout
     template: ContainerLayout
     fields:
-      - type: header
+      - type: string
+        name: title
+        label: Page Title
+        required: true
+        description: The title of the page
+      - type: headerMisc
         name: header
-        label: Header t1
-        description: The header of the page
-        required: true
-      - type: footer
-        name: footer
-        label: Footer
-        description: The footer of the page
-        required: true
+        label: Other Header Options
+        description: Some non global options for changing the page header.
       - type: list
         name: sections
         label: Sections
@@ -79,22 +85,21 @@ models:
         items:
           type: reference
           labelField: title
-          models: [heroPrimary, stackItems, banner, twoColumnBlock, titleBlock, jobs]
+          models: [heroPrimary, stackItems, banner, twoColumnBlock, titleBlock, jobs, hero, openFile, checklist, tweets, features, videoSection, genericSection]
   singleColumnLayout:
     type: page
     label: singleColumnLayout
     template: SingleColumnLayout
     fields:
-      - type: header
+      - type: string
+        name: title
+        label: Page Title
+        required: true
+        description: The title of the page
+      - type: headerMisc
         name: header
-        label: Header t2
-        description: The header of the page
-        required: true
-      - type: footer
-        name: footer
-        label: Footer
-        description: The footer of the page
-        required: true
+        label: Other Header Options
+        description: Some non global options for changing the page header.
       - type: list
         name: sections
         label: Sections
@@ -102,11 +107,21 @@ models:
         items:
           type: reference
           labelField: title
-          models: [heroPrimary, stackItems, banner, twoColumnBlock, titleBlock, jobs]
+          models: [heroPrimary, stackItems, banner, twoColumnBlock, titleBlock, jobs, hero, openFile, checklist, tweets, features, videoSection, genericSection]
   BetaSignUp:
     type: page
     label: BetaSignUp
     template: BetaSignUp
+    fields:
+      - type: string
+        name: title
+        label: Page Title
+        required: true
+        description: The title of the page
+      - type: headerMisc
+        name: header
+        label: Other Header Options
+        description: Some non global options for changing the page header.
   JobLayout:
     type: page
     label: JobLayout
@@ -457,10 +472,7 @@ models:
     type: object
     label: Header
     component: Header
-    fields: 
-      - type: image
-        name: backgroundImage
-        label: background image
+    fields:
       - type: boolean
         name: inversed
         label: inversed
@@ -488,6 +500,25 @@ models:
           - type: string
             name: title
             label: Title
+  headerMisc:
+    type: object
+    label: Other Header Options
+    component:  Header
+    fields:
+      - type: image
+        name: backgroundImage
+        label: Background Image
+        description: The background image displayed in the header
+      - type: boolean
+        name: inversed
+        label: Inversed
+        default: false
+        description: Inverses the header colors
+      - type: boolean
+        name: displayAction
+        label: Display Nav Action
+        default: false
+        description: Displays the action link in the nav
   titleBlock:
     type: object
     label: TitleBlock

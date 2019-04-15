@@ -1,13 +1,8 @@
 ---
 title: Medium
 header:
+  type: header
   component: Header
-  navItems:
-    - href: 'https://app.stackbit.com/'
-      title: Log In
-  actionItem:
-    href: /beta/
-    title: Join the Beta
   inversed: false
   displayAction: true
 hero:
@@ -99,13 +94,8 @@ openFile:
   component: OpenFile
   displayDirections: false
 footer:
+  type: footer
   component: Footer
-  copyright: Copyright © 2018 Stackbit
-  links:
-    - href: /jobs
-      title: Jobs
-    - href: /tos
-      title: Terms
 menus:
   main:
     title: Medium

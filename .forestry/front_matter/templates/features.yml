@@ -4,6 +4,14 @@ hide_body: true
 is_partial: true
 fields:
   - type: text
+    name: type
+    label: Type
+    description: The type identifier of this object inside block lists
+    hidden: true
+    default: features
+    config:
+      required: true
+  - type: text
     name: heading
     label: Section Heading
     description: The large text displayed above the section content
@@ -42,3 +50,9 @@ fields:
         name: text
         label: Feature Text
         description: The test displayed below the feature title
+  - type: text
+    name: type
+    label: Reference Type Name
+    description: Name of the object model if it was referenced
+    hidden: true
+    default: features
