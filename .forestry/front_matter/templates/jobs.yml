@@ -17,6 +17,7 @@ fields:
   - type: field_group_list
     name: jobs
     label: Jobs
+    hidden: true
     config:
       labelField: title
     fields:

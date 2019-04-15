@@ -3,10 +3,6 @@ label: Header
 hide_body: true
 is_partial: true
 fields:
-  - type: boolean
-    name: inversed
-    label: inversed
-    default: false
   - type: field_group_list
     name: navItems
     label: NavItems

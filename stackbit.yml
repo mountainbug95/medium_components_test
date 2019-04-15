@@ -473,10 +473,6 @@ models:
     label: Header
     component: Header
     fields:
-      - type: boolean
-        name: inversed
-        label: inversed
-        default: false
       - type: list
         name: navItems
         label: NavItems
@@ -589,6 +585,7 @@ models:
         label: Title
       - type: list
         name: jobs
+        hidden: true
         items:
           type: object
           labelField: title
