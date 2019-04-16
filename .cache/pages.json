@@ -10,6 +10,16 @@
         "path": "/beta/"
     },
     {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "blog-f7a",
+        "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "blog-first-post-b22",
+        "path": "/blog/first-post/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"

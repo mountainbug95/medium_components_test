@@ -22,6 +22,8 @@ import _Header from './components/Header';
 import _Footer from './components/Footer';
 import _JobLayout from './layouts/JobLayout';
 import _Jobs from './components/Jobs';
+import _BlogLayout from './layouts/BlogLayout';
+import _BlogPostLayout from './layouts/BlogPostLayout';
 
 
 function withTransform(Component, transform) {
@@ -60,12 +62,38 @@ const JobLayout = withTransform(_JobLayout, props => {
     }, props);
 });
 
+const BlogPostLayout = withTransform(_BlogPostLayout, props => {
+    return Object.assign({
+        header: _.get(props, 'context.site.siteMetadata.header', {}),
+        footer: _.get(props, 'context.site.siteMetadata.footer', {}),
+        url: props.context.url, 
+        ...props.context.frontmatter
+    }, props);
+});
+
+const BlogLayout = withTransform(_BlogLayout, props => {
+    return Object.assign({
+        header: _.get(props, 'context.site.siteMetadata.header', {}),
+        footer: _.get(props, 'context.site.siteMetadata.footer', {}),
+        posts: _.get(props, 'context.pages', [])
+                    .filter(page => page.relativeDir === 'blog')
+                    .map(page => {
+                        return {
+                            ...page.frontmatter,
+                            href: page.url
+                        }
+                    })
+    }, props);
+});
+
 export default {
     ContainerLayout,
     SingleColumnLayout,
     MediumLayout,
     BetaSignUp,
     JobLayout,
+    BlogPostLayout,
+    BlogLayout,
     Footer,
     Header,
     HeroPrimary,

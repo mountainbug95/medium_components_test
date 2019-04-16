@@ -1276,12 +1276,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-15T14:47:36.906Z",
+      "buildTime": "2019-04-16T15:54:44.996Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "4bed1d463652780e123363f195326c1a",
+        "contentDigest": "61f3a6a4d182bf0f236c93800155c827",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1291,7 +1291,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1a07edc8d7f3d5b63c988e7b82f2245c",
+        "contentDigest": "588843f68b13628afb83020a9a98a1f0",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1300,11 +1300,11 @@
       "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
       "relativePath": "",
       "extension": "",
-      "size": 320,
-      "prettySize": "320 B",
-      "modifiedTime": "2019-04-12T19:44:18.810Z",
-      "accessTime": "2019-04-15T14:47:41.034Z",
-      "changeTime": "2019-04-12T19:44:18.810Z",
+      "size": 384,
+      "prettySize": "384 B",
+      "modifiedTime": "2019-04-16T15:34:40.839Z",
+      "accessTime": "2019-04-16T15:54:47.189Z",
+      "changeTime": "2019-04-16T15:34:40.839Z",
       "birthTime": "2019-03-28T22:30:54.910Z",
       "root": "/",
       "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src",
@@ -1314,20 +1314,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 10,
+      "nlink": 12,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 4130385,
       "blocks": 0,
-      "atimeMs": 1555339661034.137,
-      "mtimeMs": 1555098258810.4849,
-      "ctimeMs": 1555098258810.4849,
+      "atimeMs": 1555430087188.7395,
+      "mtimeMs": 1555428880839.0693,
+      "ctimeMs": 1555428880839.0693,
       "birthtimeMs": 1553812254910.1082,
-      "atime": "2019-04-15T14:47:41.034Z",
-      "mtime": "2019-04-12T19:44:18.810Z",
-      "ctime": "2019-04-12T19:44:18.810Z",
+      "atime": "2019-04-16T15:54:47.189Z",
+      "mtime": "2019-04-16T15:34:40.839Z",
+      "ctime": "2019-04-16T15:34:40.839Z",
       "birthtime": "2019-03-28T22:30:54.910Z"
     },
     "75d34d23-659a-5a8a-acbe-c1979d60d9ce": {
@@ -1335,7 +1335,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "080136374990b6ad071085dd6648c0fe",
+        "contentDigest": "6e150f39f16facb550683b396f692cda",
         "type": "Directory",
         "description": "Directory \"src/pages/jobs\"",
         "owner": "gatsby-source-filesystem"
@@ -1347,7 +1347,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-04-12T04:46:43.116Z",
-      "accessTime": "2019-04-15T14:47:41.036Z",
+      "accessTime": "2019-04-16T15:54:47.190Z",
       "changeTime": "2019-04-12T04:46:43.116Z",
       "birthTime": "2019-04-12T04:46:43.116Z",
       "root": "/",
@@ -1365,11 +1365,11 @@
       "blksize": 4096,
       "ino": 6083465,
       "blocks": 0,
-      "atimeMs": 1555339661035.8657,
+      "atimeMs": 1555430087190.4836,
       "mtimeMs": 1555044403115.8777,
       "ctimeMs": 1555044403115.8777,
       "birthtimeMs": 1555044403115.8142,
-      "atime": "2019-04-15T14:47:41.036Z",
+      "atime": "2019-04-16T15:54:47.190Z",
       "mtime": "2019-04-12T04:46:43.116Z",
       "ctime": "2019-04-12T04:46:43.116Z",
       "birthtime": "2019-04-12T04:46:43.116Z"
@@ -2384,6 +2384,135 @@
         "name": "privacy"
       }
     },
+    "7533a33b-4865-5aae-b3a7-3e14efb13186": {
+      "id": "7533a33b-4865-5aae-b3a7-3e14efb13186",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d542a3fa89f1ce2e1de3ebfd65851f40",
+        "type": "Directory",
+        "description": "Directory \"src/pages/blog\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog",
+      "relativePath": "blog",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-04-16T15:34:40.839Z",
+      "accessTime": "2019-04-16T15:54:47.190Z",
+      "changeTime": "2019-04-16T15:34:40.839Z",
+      "birthTime": "2019-04-16T15:34:40.839Z",
+      "root": "/",
+      "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
+      "base": "blog",
+      "ext": "",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6554344,
+      "blocks": 0,
+      "atimeMs": 1555430087190.465,
+      "mtimeMs": 1555428880839.1216,
+      "ctimeMs": 1555428880839.1216,
+      "birthtimeMs": 1555428880839.061,
+      "atime": "2019-04-16T15:54:47.190Z",
+      "mtime": "2019-04-16T15:34:40.839Z",
+      "ctime": "2019-04-16T15:34:40.839Z",
+      "birthtime": "2019-04-16T15:34:40.839Z"
+    },
+    "0d98ab53-cdde-517a-add9-a85b4a1b0f0e": {
+      "id": "0d98ab53-cdde-517a-add9-a85b4a1b0f0e",
+      "children": [
+        "b0685c47-80a9-5d7e-ad9a-863ae2a80c1d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "04e44303d1b320c1b131976753818e12",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog.md",
+      "relativePath": "blog.md",
+      "extension": "md",
+      "size": 41,
+      "prettySize": "41 B",
+      "modifiedTime": "2019-04-16T15:34:40.839Z",
+      "accessTime": "2019-04-16T15:34:40.839Z",
+      "changeTime": "2019-04-16T15:34:40.839Z",
+      "birthTime": "2019-04-16T15:34:40.839Z",
+      "root": "/",
+      "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
+      "base": "blog.md",
+      "ext": ".md",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6554343,
+      "blocks": 8,
+      "atimeMs": 1555428880838.7214,
+      "mtimeMs": 1555428880838.9673,
+      "ctimeMs": 1555428880838.9673,
+      "birthtimeMs": 1555428880838.7214,
+      "atime": "2019-04-16T15:34:40.839Z",
+      "mtime": "2019-04-16T15:34:40.839Z",
+      "ctime": "2019-04-16T15:34:40.839Z",
+      "birthtime": "2019-04-16T15:34:40.839Z"
+    },
+    "b0685c47-80a9-5d7e-ad9a-863ae2a80c1d": {
+      "id": "b0685c47-80a9-5d7e-ad9a-863ae2a80c1d",
+      "children": [],
+      "parent": "0d98ab53-cdde-517a-add9-a85b4a1b0f0e",
+      "internal": {
+        "content": "",
+        "type": "MarkdownRemark",
+        "contentDigest": "58f8ba4c38fd229f8327f06296ae02fc",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "url": "gatsby-remark-page-creator",
+          "absolutePath": "gatsby-remark-page-creator",
+          "relativePath": "gatsby-remark-page-creator",
+          "absoluteDir": "gatsby-remark-page-creator",
+          "relativeDir": "gatsby-remark-page-creator",
+          "base": "gatsby-remark-page-creator",
+          "ext": "gatsby-remark-page-creator",
+          "name": "gatsby-remark-page-creator"
+        }
+      },
+      "frontmatter": {
+        "title": "Blog",
+        "template": "BlogLayout"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "",
+      "fileAbsolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog.md",
+      "fields": {
+        "url": "/blog/",
+        "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog.md",
+        "relativePath": "blog.md",
+        "absoluteDir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages",
+        "relativeDir": "",
+        "base": "blog.md",
+        "ext": ".md",
+        "name": "blog"
+      }
+    },
     "SitePage /license/": {
       "jsonName": "license-ae3",
       "internalComponentName": "ComponentLicense",
@@ -2817,6 +2946,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -2859,64 +3009,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -2927,7 +3019,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "77e6786230f89c44e369d8a93c90fe39",
+        "contentDigest": "5fe4a809cdb388b0073b0d7b928c6ecf",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3352,6 +3444,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -3394,64 +3507,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -3462,7 +3517,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a16f37e94bfa4222f5589eff2c1ba0b2",
+        "contentDigest": "5c89b3f50ace1c33cc5b766a03a7159e",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -3895,6 +3950,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -3937,64 +4013,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -4005,7 +4023,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6480754954d2802f9c836b0d93973d88",
+        "contentDigest": "6b759cbabcf8e19e0f4ef4c9332bcc5b",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -4443,6 +4461,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -4485,64 +4524,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -4553,7 +4534,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "19a6910e9aab490f6bf72c8877a16247",
+        "contentDigest": "4aadb7350b7cf1828438f0a0ca20ad60",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -5057,6 +5038,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -5099,64 +5101,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -5167,7 +5111,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2dd6c04f838819781b50c85744a0e036",
+        "contentDigest": "b2db473b2e968112b70726b078ff8c71",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -5665,6 +5609,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -5707,64 +5672,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -5775,7 +5682,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b94b051119660771e3e5aae8f4d85bd4",
+        "contentDigest": "020891586677d59ea49f7dfb065c54a0",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -6315,6 +6222,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -6357,64 +6285,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -6425,7 +6295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "23ef1e7886a89e6ef62d1f3585fba21e",
+        "contentDigest": "8f3d99c632be83b6445978aa521ff29a",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -6863,6 +6733,27 @@
               },
               "template": "ContainerLayout"
             }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
           }
         ],
         "site": {
@@ -6905,64 +6796,6 @@
           },
           "pathPrefix": "",
           "data": null
-        },
-        "menus": {
-          "main": [
-            {
-              "page___NODE": "0f545d69-8c57-51c4-a0c5-43a054cdd463",
-              "id": "menu-main-license",
-              "identifier": "main-license",
-              "title": "License",
-              "weight": 1,
-              "url": "/license/",
-              "items": []
-            },
-            {
-              "page___NODE": "3135974a-766c-5de6-9fa0-c95dfb2a06d2",
-              "id": "menu-main-tos",
-              "identifier": "main-tos",
-              "title": "Terms of Service",
-              "weight": 1,
-              "url": "/tos/",
-              "items": []
-            },
-            {
-              "page___NODE": "9cd11a96-6299-57fa-a5b6-7a0fd07cd702",
-              "id": "menu-main-privacy",
-              "identifier": "main-privacy",
-              "title": "Privacy",
-              "weight": 1,
-              "url": "/privacy/",
-              "items": []
-            },
-            {
-              "page___NODE": "fd021e4c-a01d-5285-be4f-ea301e69a09b",
-              "id": "menu-main-index",
-              "identifier": "main-index",
-              "title": "Home",
-              "weight": 1,
-              "url": "/",
-              "items": []
-            },
-            {
-              "page___NODE": "2bb7bc3c-bd46-5d3e-8ac6-cc10032f71e2",
-              "id": "menu-main-jobs",
-              "identifier": "main-jobs",
-              "title": "Home",
-              "weight": 1,
-              "url": "/jobs/",
-              "items": []
-            },
-            {
-              "page___NODE": "a4539b17-6909-5975-9bdb-f0c96c25ab5a",
-              "id": "menu-main-medium",
-              "identifier": "main-medium",
-              "title": "Medium",
-              "weight": 3,
-              "url": "/medium/",
-              "items": []
-            }
-          ]
         }
       },
       "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
@@ -6973,7 +6806,503 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc554190aefe1b87ac89ecbdac4b7153",
+        "contentDigest": "54f2d74ef0d9ac721355dac320b40874",
+        "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "jsonName": "blog-f7a",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "url": "/blog/",
+        "relativePath": "blog.md",
+        "relativeDir": "",
+        "frontmatter": {
+          "title": "Blog",
+          "template": "BlogLayout"
+        },
+        "html": "",
+        "pages": [
+          {
+            "url": "/license/",
+            "relativePath": "license.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "License",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "License",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/jobs/full-stack-dev/",
+            "relativePath": "jobs/full-stack-dev.md",
+            "relativeDir": "jobs",
+            "frontmatter": {
+              "title": "Full Stack Developer",
+              "template": "JobLayout",
+              "location": "Stackbit HQ (San Francisco), Remote",
+              "experienceLevel": "Senior"
+            }
+          },
+          {
+            "url": "/beta/",
+            "relativePath": "beta.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Beta Application",
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "inversed": true,
+                "displayAction": false
+              },
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "template": "BetaSignUp"
+            }
+          },
+          {
+            "url": "/tos/",
+            "relativePath": "tos.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Terms of Service",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "Terms of Service",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/",
+            "relativePath": "index.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Stackbit",
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "backgroundImage": "images/hero-bg.jpg",
+                "inversed": true,
+                "displayAction": true
+              },
+              "sections": [
+                {
+                  "name": "hero",
+                  "type": "heroPrimary",
+                  "component": "HeroPrimary",
+                  "title": "Build Modern JAMstack Websites in Minutes",
+                  "subtitle": "Combine any Theme, Site Generator and CMS without complicated integrations",
+                  "buttonTitle": "JOIN THE BETA",
+                  "buttonHref": "/beta/",
+                  "imageSectionTitle": "Works with",
+                  "imageSectionImage": "images/mooseheads.png",
+                  "videoSource": "https://assets.stackbit.com/videos/product-demo.mp4",
+                  "template": "heroPrimary"
+                },
+                {
+                  "name": "stack",
+                  "type": "stackItems",
+                  "component": "StackItems",
+                  "themeLayer": {
+                    "icon": "images/stack-items/themes-icon.svg",
+                    "subtitle": "Start with hundreds of",
+                    "title": "Quality Themes.",
+                    "description": "Find the right theme for you or your client's business and hit the ground running with a beautiful, semanatic, and seo-optimized theme.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "genLayer": {
+                    "icon": "images/stack-items/gen-icon.svg",
+                    "subtitle": "Use your favorite static",
+                    "title": "Site Generator.",
+                    "description": "We support all the popular static site generators, use a theme you  like with a site generator you know.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "cmsLayer": {
+                    "icon": "images/stack-items/cms-icon.svg",
+                    "subtitle": "Select your favorite",
+                    "title": "CMS of Choice.",
+                    "description": "Headless CMSs are extremely handy for you and your client  and our themes work with all of them.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "deploymentLayer": {
+                    "icon": "images/stack-items/deployment-icon.svg",
+                    "subtitle": "Pick your Git hosting and",
+                    "title": "Click to Deploy.",
+                    "description": "Your modern project lives as a Git repository. Seamlessly  integrate with popular build and deploy services.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "ctaLayer": {
+                    "quote": "Stackbit is awesome! It saves me hours of coding when spinning up a project for my clients. The code is super clean too 👍",
+                    "image": "images/stack-items/eli.png",
+                    "name": "Eli Williamson",
+                    "linkHref": "http://www.duskdigital.co",
+                    "linkTitle": "Dusk Digital",
+                    "title": "Your project",
+                    "subtitle": "stacked your way",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "template": "stackItems"
+                }
+              ],
+              "menus": {
+                "main": {
+                  "title": "Home",
+                  "weight": 1
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
+          },
+          {
+            "url": "/jobs/",
+            "relativePath": "jobs.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Jobs",
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "sections": [
+                {
+                  "name": "title",
+                  "type": "titleBlock",
+                  "component": "TitleBlock",
+                  "title": "Join The Team",
+                  "subtitle": "Make building and maintaining modern websites easy.",
+                  "template": "titleBlock"
+                },
+                {
+                  "name": "block",
+                  "type": "twoColumnBlock",
+                  "component": "TwoColumnBlock",
+                  "column1": {
+                    "title": "About Stackbit",
+                    "text": "Websites are the building blocks of the internet and many millions of new ones are created every year. The way we create and engineer websites is changing thanks to the constant evolution of tools, best practices and needs. We're seeing websites being statically generated, served from CDNs, edited using Headless CMSs and wired up with a myriad of developer workflows. New ideas like the JAMstack, Serverless computing and GitOps enable us to create more performant and secure websites."
+                  },
+                  "column2": {
+                    "title": "Building The New Internet",
+                    "text": "One side effect of new, raw technologies is that they can increase the level of expertise required to get the job done. We recognize this gap between the available technologies and the needs of professionals as the product gap. At Stackbit our mission is to solve this gap - We're creating technology, products and services to help professionals \"Get Websites Done\"."
+                  },
+                  "template": "twoColumnBlock"
+                },
+                {
+                  "name": "banner",
+                  "type": "banner",
+                  "component": "Banner",
+                  "title": "Stackbit was founded in late 2018 by a team of serial entrepreneurs and is backed by top tier VCs. We maintain a small HQ in San-Francisco and our team is fully distributed around the world.",
+                  "items": [
+                    {
+                      "title": "Founded in 2018",
+                      "subtitle": "by a team of serial entrepreneurs",
+                      "image": "images/jobs/founded-icon.svg"
+                    },
+                    {
+                      "title": "Funded by top-tier VCs & Angels",
+                      "image": "images/jobs/funded-icon.svg"
+                    },
+                    {
+                      "title": "A lean and tight team",
+                      "image": "images/jobs/employees-icon.svg"
+                    },
+                    {
+                      "title": "HQ in San Francisco",
+                      "subtitle": "with a remote team around the world",
+                      "image": "images/jobs/location-icon.svg"
+                    }
+                  ],
+                  "template": "banner"
+                },
+                {
+                  "name": "jobs",
+                  "type": "jobs",
+                  "component": "Jobs",
+                  "title": "Open Positions",
+                  "template": "jobs"
+                }
+              ],
+              "menus": {
+                "main": {
+                  "title": "Home",
+                  "weight": 1
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "inversed": false,
+                "displayAction": true
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweets_carousel": [
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I&#39;m absolutely blown away by how powerful Stackbit is! 🤯 <a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a></p>&mdash; Jannick Voss Haunstrup (@jannickvossh) <a href=\"https://twitter.com/jannickvossh/status/1106281786575851520?ref_src=twsrc%5Etfw\">March 14, 2019</a></blockquote>"
+                    },
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I built a static site on <a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a> so easily that I almost overlooked how powerful it is !! Just like <a href=\"https://twitter.com/gatsbyjs?ref_src=twsrc%5Etfw\">@gatsbyjs</a> starters or <a href=\"https://twitter.com/Netlify?ref_src=twsrc%5Etfw\">@Netlify</a> templates. Just wow !</p>&mdash; Bhavana (@bhavana1110) <a href=\"https://twitter.com/bhavana1110/status/1112764030966468610?ref_src=twsrc%5Etfw\">April 1, 2019</a></blockquote>"
+                    },
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a> allows you to easily deploy a static site backed with a CMS. Amazing service.</p>&mdash; Jonny Goodwin 🚀 (@Jonny_Goodwin) <a href=\"https://twitter.com/Jonny_Goodwin/status/1108768178899951616?ref_src=twsrc%5Etfw\">March 21, 2019</a></blockquote>"
+                    }
+                  ]
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "MediumLayout"
+            }
+          },
+          {
+            "url": "/privacy/",
+            "relativePath": "privacy.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Privacy Policy",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "Privacy",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
+          }
+        ],
+        "site": {
+          "siteMetadata": {
+            "header": {
+              "content": "Stackbit Vanilla",
+              "has_nav": true,
+              "navItems": [
+                {
+                  "href": "https://app.stackbit.com/",
+                  "title": "Log In"
+                }
+              ],
+              "actionItem": {
+                "href": "/beta/",
+                "title": "Join the Beta"
+              }
+            },
+            "footer": {
+              "copyright": "Copyright © 2018 Stackbit",
+              "links": [
+                {
+                  "href": "/jobs",
+                  "title": "Jobs"
+                },
+                {
+                  "href": "/tos",
+                  "title": "Terms"
+                },
+                {
+                  "href": "/license",
+                  "title": "License"
+                },
+                {
+                  "href": "/privacy",
+                  "title": "Privacy"
+                }
+              ]
+            }
+          },
+          "pathPrefix": "",
+          "data": null
+        }
+      },
+      "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+      "pluginCreatorId": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+      "componentPath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js",
+      "id": "SitePage /blog/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "74d978af5620924dab2f1046c880eed9",
         "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
         "owner": "internal-data-bridge"
       }
@@ -7110,6 +7439,593 @@
       ],
       "children": [],
       "parent": null
+    },
+    "a75d386a-82ed-5d3e-ad2c-f3d5b2ad4f3c": {
+      "id": "a75d386a-82ed-5d3e-ad2c-f3d5b2ad4f3c",
+      "children": [
+        "079e5d16-da00-5c43-8dce-f8103a0d2eff"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "51bb9e4d7a7ebe8d8dff3271a84ce50a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/blog/first-post.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog/first-post.md",
+      "relativePath": "blog/first-post.md",
+      "extension": "md",
+      "size": 1781,
+      "prettySize": "1.78 kB",
+      "modifiedTime": "2019-04-16T15:34:40.839Z",
+      "accessTime": "2019-04-16T15:59:49.015Z",
+      "changeTime": "2019-04-16T16:00:19.469Z",
+      "birthTime": "2019-04-16T15:34:40.839Z",
+      "root": "/",
+      "dir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog",
+      "base": "first-post.md",
+      "ext": ".md",
+      "name": "first-post",
+      "relativeDirectory": "blog",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 6554345,
+      "blocks": 8,
+      "atimeMs": 1555430389015.2478,
+      "mtimeMs": 1555428880839.4282,
+      "ctimeMs": 1555430419468.6208,
+      "birthtimeMs": 1555428880839.1155,
+      "atime": "2019-04-16T15:59:49.015Z",
+      "mtime": "2019-04-16T15:34:40.839Z",
+      "ctime": "2019-04-16T16:00:19.469Z",
+      "birthtime": "2019-04-16T15:34:40.839Z"
+    },
+    "079e5d16-da00-5c43-8dce-f8103a0d2eff": {
+      "id": "079e5d16-da00-5c43-8dce-f8103a0d2eff",
+      "children": [],
+      "parent": "a75d386a-82ed-5d3e-ad2c-f3d5b2ad4f3c",
+      "internal": {
+        "content": "\nStackbit is hiring a full stack engineer that will help us redefine how the web is built. Join Stackbit's founding engineering team and make a massive impact on the company's technology, products, culture, and success.\n\n**About the role**\n\n- Initiate, own and build new products and features, improve existing products and features\n- Estimate, plan and execute at world class code quality, architecture and technologies\n- Keep growing and expanding your development experience across the stack and to other technologies and platforms\n- Participate in shaping the product: work with customers to solve their problems, delivering a great and delightful user experience.\n- Communicate clearly with the team, be a mentor and a leader\n- Work from anywhere in the world, we'll support your home office or a co-working space and keep meetings to a minimum\n- Technologies we currently use: Node.JS, React, SSGs, all other JAMstack components\n\n**About you**\n\n- 5+ years of professional full stack web development experience, working across the stack from the database, through the backend to the UI\n- You're a real problem solver that can understand and solve very complex issues. You're curious, embrace challenges and see them as opportunities to learn new things\n- Entrepreneurial: can adjust quickly to changing priorities and conditions, understands the value of iterations\n- Product oriented: building for the user to solve their problems\n- You're flexible and can easily shift between extremely quick and dirty POCs and gold plated launch products\n- Great communication skills, both written and verbal\n- You have a can-do approach and positive impact on the team surrounding you\n\n\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1c75a167c6c6feb8061190284f191b9e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "url": "gatsby-remark-page-creator",
+          "absolutePath": "gatsby-remark-page-creator",
+          "relativePath": "gatsby-remark-page-creator",
+          "absoluteDir": "gatsby-remark-page-creator",
+          "relativeDir": "gatsby-remark-page-creator",
+          "base": "gatsby-remark-page-creator",
+          "ext": "gatsby-remark-page-creator",
+          "name": "gatsby-remark-page-creator"
+        }
+      },
+      "frontmatter": {
+        "title": "Blog Post the First",
+        "template": "BlogPostLayout",
+        "thumbnail": "",
+        "image": "",
+        "readTimeMins": 9
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nStackbit is hiring a full stack engineer that will help us redefine how the web is built. Join Stackbit's founding engineering team and make a massive impact on the company's technology, products, culture, and success.\n\n**About the role**\n\n- Initiate, own and build new products and features, improve existing products and features\n- Estimate, plan and execute at world class code quality, architecture and technologies\n- Keep growing and expanding your development experience across the stack and to other technologies and platforms\n- Participate in shaping the product: work with customers to solve their problems, delivering a great and delightful user experience.\n- Communicate clearly with the team, be a mentor and a leader\n- Work from anywhere in the world, we'll support your home office or a co-working space and keep meetings to a minimum\n- Technologies we currently use: Node.JS, React, SSGs, all other JAMstack components\n\n**About you**\n\n- 5+ years of professional full stack web development experience, working across the stack from the database, through the backend to the UI\n- You're a real problem solver that can understand and solve very complex issues. You're curious, embrace challenges and see them as opportunities to learn new things\n- Entrepreneurial: can adjust quickly to changing priorities and conditions, understands the value of iterations\n- Product oriented: building for the user to solve their problems\n- You're flexible and can easily shift between extremely quick and dirty POCs and gold plated launch products\n- Great communication skills, both written and verbal\n- You have a can-do approach and positive impact on the team surrounding you\n\n\n\n",
+      "fileAbsolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog/first-post.md",
+      "fields": {
+        "url": "/blog/first-post/",
+        "absolutePath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog/first-post.md",
+        "relativePath": "blog/first-post.md",
+        "absoluteDir": "/Users/tannersmith/medium_landing/stackbit-www-components/src/pages/blog",
+        "relativeDir": "blog",
+        "base": "first-post.md",
+        "ext": ".md",
+        "name": "first-post"
+      }
+    },
+    "SitePage /blog/first-post/": {
+      "jsonName": "blog-first-post-b22",
+      "internalComponentName": "ComponentBlogFirstPost",
+      "path": "/blog/first-post/",
+      "component": "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js",
+      "componentChunkName": "component---src-templates-page-js",
+      "isCreatedByStatefulCreatePages": false,
+      "context": {
+        "url": "/blog/first-post/",
+        "relativePath": "blog/first-post.md",
+        "relativeDir": "blog",
+        "frontmatter": {
+          "title": "Blog Post the First",
+          "template": "BlogPostLayout",
+          "thumbnail": "",
+          "image": "",
+          "readTimeMins": 9
+        },
+        "html": "<p>Stackbit is hiring a full stack engineer that will help us redefine how the web is built. Join Stackbit's founding engineering team and make a massive impact on the company's technology, products, culture, and success.</p>\n<p><strong>About the role</strong></p>\n<ul>\n<li>Initiate, own and build new products and features, improve existing products and features</li>\n<li>Estimate, plan and execute at world class code quality, architecture and technologies</li>\n<li>Keep growing and expanding your development experience across the stack and to other technologies and platforms</li>\n<li>Participate in shaping the product: work with customers to solve their problems, delivering a great and delightful user experience.</li>\n<li>Communicate clearly with the team, be a mentor and a leader</li>\n<li>Work from anywhere in the world, we'll support your home office or a co-working space and keep meetings to a minimum</li>\n<li>Technologies we currently use: Node.JS, React, SSGs, all other JAMstack components</li>\n</ul>\n<p><strong>About you</strong></p>\n<ul>\n<li>5+ years of professional full stack web development experience, working across the stack from the database, through the backend to the UI</li>\n<li>You're a real problem solver that can understand and solve very complex issues. You're curious, embrace challenges and see them as opportunities to learn new things</li>\n<li>Entrepreneurial: can adjust quickly to changing priorities and conditions, understands the value of iterations</li>\n<li>Product oriented: building for the user to solve their problems</li>\n<li>You're flexible and can easily shift between extremely quick and dirty POCs and gold plated launch products</li>\n<li>Great communication skills, both written and verbal</li>\n<li>You have a can-do approach and positive impact on the team surrounding you</li>\n</ul>",
+        "pages": [
+          {
+            "url": "/license/",
+            "relativePath": "license.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "License",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "License",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/jobs/full-stack-dev/",
+            "relativePath": "jobs/full-stack-dev.md",
+            "relativeDir": "jobs",
+            "frontmatter": {
+              "title": "Full Stack Developer",
+              "template": "JobLayout",
+              "location": "Stackbit HQ (San Francisco), Remote",
+              "experienceLevel": "Senior"
+            }
+          },
+          {
+            "url": "/beta/",
+            "relativePath": "beta.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Beta Application",
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "inversed": true,
+                "displayAction": false
+              },
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "template": "BetaSignUp"
+            }
+          },
+          {
+            "url": "/tos/",
+            "relativePath": "tos.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Terms of Service",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "Terms of Service",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/",
+            "relativePath": "index.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Stackbit",
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "backgroundImage": "images/hero-bg.jpg",
+                "inversed": true,
+                "displayAction": true
+              },
+              "sections": [
+                {
+                  "name": "hero",
+                  "type": "heroPrimary",
+                  "component": "HeroPrimary",
+                  "title": "Build Modern JAMstack Websites in Minutes",
+                  "subtitle": "Combine any Theme, Site Generator and CMS without complicated integrations",
+                  "buttonTitle": "JOIN THE BETA",
+                  "buttonHref": "/beta/",
+                  "imageSectionTitle": "Works with",
+                  "imageSectionImage": "images/mooseheads.png",
+                  "videoSource": "https://assets.stackbit.com/videos/product-demo.mp4",
+                  "template": "heroPrimary"
+                },
+                {
+                  "name": "stack",
+                  "type": "stackItems",
+                  "component": "StackItems",
+                  "themeLayer": {
+                    "icon": "images/stack-items/themes-icon.svg",
+                    "subtitle": "Start with hundreds of",
+                    "title": "Quality Themes.",
+                    "description": "Find the right theme for you or your client's business and hit the ground running with a beautiful, semanatic, and seo-optimized theme.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "genLayer": {
+                    "icon": "images/stack-items/gen-icon.svg",
+                    "subtitle": "Use your favorite static",
+                    "title": "Site Generator.",
+                    "description": "We support all the popular static site generators, use a theme you  like with a site generator you know.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "cmsLayer": {
+                    "icon": "images/stack-items/cms-icon.svg",
+                    "subtitle": "Select your favorite",
+                    "title": "CMS of Choice.",
+                    "description": "Headless CMSs are extremely handy for you and your client  and our themes work with all of them.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "deploymentLayer": {
+                    "icon": "images/stack-items/deployment-icon.svg",
+                    "subtitle": "Pick your Git hosting and",
+                    "title": "Click to Deploy.",
+                    "description": "Your modern project lives as a Git repository. Seamlessly  integrate with popular build and deploy services.",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "ctaLayer": {
+                    "quote": "Stackbit is awesome! It saves me hours of coding when spinning up a project for my clients. The code is super clean too 👍",
+                    "image": "images/stack-items/eli.png",
+                    "name": "Eli Williamson",
+                    "linkHref": "http://www.duskdigital.co",
+                    "linkTitle": "Dusk Digital",
+                    "title": "Your project",
+                    "subtitle": "stacked your way",
+                    "buttonHref": "/beta/",
+                    "buttonTitle": "Join the Beta"
+                  },
+                  "template": "stackItems"
+                }
+              ],
+              "menus": {
+                "main": {
+                  "title": "Home",
+                  "weight": 1
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
+          },
+          {
+            "url": "/jobs/",
+            "relativePath": "jobs.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Jobs",
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "sections": [
+                {
+                  "name": "title",
+                  "type": "titleBlock",
+                  "component": "TitleBlock",
+                  "title": "Join The Team",
+                  "subtitle": "Make building and maintaining modern websites easy.",
+                  "template": "titleBlock"
+                },
+                {
+                  "name": "block",
+                  "type": "twoColumnBlock",
+                  "component": "TwoColumnBlock",
+                  "column1": {
+                    "title": "About Stackbit",
+                    "text": "Websites are the building blocks of the internet and many millions of new ones are created every year. The way we create and engineer websites is changing thanks to the constant evolution of tools, best practices and needs. We're seeing websites being statically generated, served from CDNs, edited using Headless CMSs and wired up with a myriad of developer workflows. New ideas like the JAMstack, Serverless computing and GitOps enable us to create more performant and secure websites."
+                  },
+                  "column2": {
+                    "title": "Building The New Internet",
+                    "text": "One side effect of new, raw technologies is that they can increase the level of expertise required to get the job done. We recognize this gap between the available technologies and the needs of professionals as the product gap. At Stackbit our mission is to solve this gap - We're creating technology, products and services to help professionals \"Get Websites Done\"."
+                  },
+                  "template": "twoColumnBlock"
+                },
+                {
+                  "name": "banner",
+                  "type": "banner",
+                  "component": "Banner",
+                  "title": "Stackbit was founded in late 2018 by a team of serial entrepreneurs and is backed by top tier VCs. We maintain a small HQ in San-Francisco and our team is fully distributed around the world.",
+                  "items": [
+                    {
+                      "title": "Founded in 2018",
+                      "subtitle": "by a team of serial entrepreneurs",
+                      "image": "images/jobs/founded-icon.svg"
+                    },
+                    {
+                      "title": "Funded by top-tier VCs & Angels",
+                      "image": "images/jobs/funded-icon.svg"
+                    },
+                    {
+                      "title": "A lean and tight team",
+                      "image": "images/jobs/employees-icon.svg"
+                    },
+                    {
+                      "title": "HQ in San Francisco",
+                      "subtitle": "with a remote team around the world",
+                      "image": "images/jobs/location-icon.svg"
+                    }
+                  ],
+                  "template": "banner"
+                },
+                {
+                  "name": "jobs",
+                  "type": "jobs",
+                  "component": "Jobs",
+                  "title": "Open Positions",
+                  "template": "jobs"
+                }
+              ],
+              "menus": {
+                "main": {
+                  "title": "Home",
+                  "weight": 1
+                }
+              },
+              "template": "SingleColumnLayout"
+            }
+          },
+          {
+            "url": "/medium/",
+            "relativePath": "medium.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Medium",
+              "header": {
+                "type": "header",
+                "component": "Header",
+                "inversed": false,
+                "displayAction": true
+              },
+              "hero": {
+                "component": "Hero",
+                "heading": "Migrating your medium blog has never been easier.",
+                "subheading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at mauris facilisis.",
+                "contact": {
+                  "text": "Need a hand? No worries! We can help.",
+                  "link": {
+                    "text": "Chat with Ohad now →",
+                    "url": null
+                  }
+                },
+                "tweets": {
+                  "heading": "What are people saying?",
+                  "tweets_carousel": [
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I&#39;m absolutely blown away by how powerful Stackbit is! 🤯 <a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a></p>&mdash; Jannick Voss Haunstrup (@jannickvossh) <a href=\"https://twitter.com/jannickvossh/status/1106281786575851520?ref_src=twsrc%5Etfw\">March 14, 2019</a></blockquote>"
+                    },
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">I built a static site on <a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a> so easily that I almost overlooked how powerful it is !! Just like <a href=\"https://twitter.com/gatsbyjs?ref_src=twsrc%5Etfw\">@gatsbyjs</a> starters or <a href=\"https://twitter.com/Netlify?ref_src=twsrc%5Etfw\">@Netlify</a> templates. Just wow !</p>&mdash; Bhavana (@bhavana1110) <a href=\"https://twitter.com/bhavana1110/status/1112764030966468610?ref_src=twsrc%5Etfw\">April 1, 2019</a></blockquote>"
+                    },
+                    {
+                      "embed": "<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\"><a href=\"https://twitter.com/stackbithq?ref_src=twsrc%5Etfw\">@stackbithq</a> allows you to easily deploy a static site backed with a CMS. Amazing service.</p>&mdash; Jonny Goodwin 🚀 (@Jonny_Goodwin) <a href=\"https://twitter.com/Jonny_Goodwin/status/1108768178899951616?ref_src=twsrc%5Etfw\">March 21, 2019</a></blockquote>"
+                    }
+                  ]
+                },
+                "openFile": {
+                  "displayDirections": true,
+                  "directions": [
+                    {
+                      "text": "Go to \"medium\" settings"
+                    },
+                    {
+                      "text": "Scroll down to the \"accounts\" section and click \"download.zib\""
+                    },
+                    {
+                      "text": "Drag and drop the .zip from medium to this screen"
+                    }
+                  ]
+                },
+                "checklist": {
+                  "listItems": [
+                    {
+                      "text": "Completly FREE"
+                    },
+                    {
+                      "text": "Own Your Content"
+                    },
+                    {
+                      "text": "Fast, Scalable and Cheap"
+                    }
+                  ]
+                }
+              },
+              "features": {
+                "component": "Features",
+                "heading": "This is a title that has not yet been defined",
+                "subheading": "How it works",
+                "content": "'Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra consectetur. In blandit maximus libero et dictum. Quisque iaculis sit amet metus et lobortis. Ut volutpat at purus ac molestie. Quisque elementum turpis a nibh blandit, non volutpat ex viverra. Nulla commodo feugiat tristique. Ut malesuada a ex vel congue. In pharetra faucibus vestibulum. Pellentesque a felis at lorem auctor pulvinar.\n\nCurabitur in lectus semper, laoreet lectus non, blandit tellus. Proin velit dolor, lacinia vitae elementum ut, faucibus id quam. Maecenas interdum molestie fermentum. Aenean augue nibh, sodales vel lobortis a, rhoncus vitae erat. Nunc vehicula nunc laoreet facilisis rutrum. Praesent dignissim est velit, in scelerisque dui finibus vel. Nam sem ex, imperdiet in mi nec, dapibus ultrices nibh. Sed sed tempor nisi, quis pulvinar dui.'",
+                "featuresList": [
+                  {
+                    "image": "hour-glass.svg",
+                    "title": "Import Your Medium Blog",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "circles.svg",
+                    "title": "Adjust Your Theme's Appearence",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  },
+                  {
+                    "image": "connection.svg",
+                    "title": "Voilà! It’s live 🎉",
+                    "text": "Fusce auctor convallis purus, non ornare quam lobortis semper. Pellentesque condimentum sed orci pharetra"
+                  }
+                ]
+              },
+              "videoSection": {
+                "component": "VideoSection",
+                "heading": "Watch the demo",
+                "URL": "https://www.youtube.com/embed/Kob0G2hE8IY",
+                "directions": [
+                  {
+                    "text": "Go to Medium \"Settings\""
+                  },
+                  {
+                    "text": "Scroll down to the \"Accounts\" section and click \"Download .zip\""
+                  },
+                  {
+                    "text": "Drag and drop your .zip from Medium to this screen"
+                  }
+                ]
+              },
+              "genericSection": {
+                "component": "GenericSection",
+                "heading": "Start your migration",
+                "subheading": "Drag & Drop your ZIP into the window"
+              },
+              "openFile": {
+                "component": "OpenFile",
+                "displayDirections": false
+              },
+              "footer": {
+                "type": "footer",
+                "component": "Footer"
+              },
+              "menus": {
+                "main": {
+                  "title": "Medium",
+                  "weight": 3
+                }
+              },
+              "template": "MediumLayout"
+            }
+          },
+          {
+            "url": "/privacy/",
+            "relativePath": "privacy.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Privacy Policy",
+              "footer": {
+                "component": "Footer"
+              },
+              "header": {
+                "component": "Header",
+                "backgroundImage": "images/detail-bg.jpg",
+                "inversed": false,
+                "displayAction": true
+              },
+              "menus": {
+                "main": {
+                  "title": "Privacy",
+                  "weight": 1
+                }
+              },
+              "template": "ContainerLayout"
+            }
+          },
+          {
+            "url": "/blog/",
+            "relativePath": "blog.md",
+            "relativeDir": "",
+            "frontmatter": {
+              "title": "Blog",
+              "template": "BlogLayout"
+            }
+          },
+          {
+            "url": "/blog/first-post/",
+            "relativePath": "blog/first-post.md",
+            "relativeDir": "blog",
+            "frontmatter": {
+              "title": "Blog Post the First",
+              "template": "BlogPostLayout",
+              "thumbnail": "",
+              "image": "",
+              "readTimeMins": 9
+            }
+          }
+        ],
+        "site": {
+          "siteMetadata": {
+            "header": {
+              "content": "Stackbit Vanilla",
+              "has_nav": true,
+              "navItems": [
+                {
+                  "href": "https://app.stackbit.com/",
+                  "title": "Log In"
+                }
+              ],
+              "actionItem": {
+                "href": "/beta/",
+                "title": "Join the Beta"
+              }
+            },
+            "footer": {
+              "copyright": "Copyright © 2018 Stackbit",
+              "links": [
+                {
+                  "href": "/jobs",
+                  "title": "Jobs"
+                },
+                {
+                  "href": "/tos",
+                  "title": "Terms"
+                },
+                {
+                  "href": "/license",
+                  "title": "License"
+                },
+                {
+                  "href": "/privacy",
+                  "title": "Privacy"
+                }
+              ]
+            }
+          },
+          "pathPrefix": "",
+          "data": null
+        }
+      },
+      "pluginCreator___NODE": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+      "pluginCreatorId": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+      "componentPath": "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js",
+      "id": "SitePage /blog/first-post/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8cb5fadf60c3723c449498e6bfef70a7",
+        "description": "0df0ffb5-3cc1-536e-8e67-c4e7e3ede8a4",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -7121,15 +8037,18 @@
     "connections": {}
   },
   "jsonDataPaths": {
-    "beta-4c5": "196/path---beta-4-c-5-c1c-jy5FKZ2edX3W7JHEnBDXP7rweg",
-    "index": "832/path---index-6a9-K0i3LL10ksqHAvWjFpsNsXE3vc",
-    "jobs-79a": "550/path---jobs-79-a-e25-Rw4M02tUxwWojdPDy70EMuCCx70",
-    "privacy-06e": "396/path---privacy-06-e-82f-wkPnrUuzRvuERwwkhhOShBbwCj4",
-    "medium-c21": "252/path---medium-c-21-95c-p37UDJzRXrgsVCnrg4THZTSenNY",
-    "license-ae3": "196/path---license-ae-3-a2f-7R0ZeKXJNZw0QKFYnJqulPS9RK0",
-    "tos-607": "714/path---tos-607-a07-y6r8SS2eh3YvnOC1kxTT2Cr3AI",
-    "jobs-full-stack-dev-9b1": "132/path---jobs-full-stack-dev-9-b-1-500-AiURFhbzK0rvLqwiXF5G9hNR19g",
-    "dev-404-page-5f9": "180/path---dev-404-page-5-f-9-fab-DbA3wjNixhdQYYzOWbiFN8ZHakE"
+    "beta-4c5": "9/path---beta-4-c-5-c1c-wFGRkz5o894OkkAqyYVQcc30",
+    "index": "863/path---index-6a9-aBMdeDvHXucr2B8eNbuRH79Y558",
+    "jobs-79a": "309/path---jobs-79-a-e25-sFipL3wuWB3ElmQcPkhPDFWZF0",
+    "privacy-06e": "701/path---privacy-06-e-82f-9K9ZW9vV6p8gXIO5pH3HFv14Vc",
+    "medium-c21": "41/path---medium-c-21-95c-kdzEuJZehWzCbdeB4OeTLXIGA",
+    "license-ae3": "924/path---license-ae-3-a2f-lAJ2u1s4Yu1NBweSqRhZBzTH5s",
+    "tos-607": "626/path---tos-607-a07-VG7RejYgVWkWTYe1nKb1J259Y",
+    "jobs-full-stack-dev-9b1": "732/path---jobs-full-stack-dev-9-b-1-500-wwJ2MZHnz5ROAevIXxtmlO6HqI",
+    "dev-404-page-5f9": "180/path---dev-404-page-5-f-9-fab-DbA3wjNixhdQYYzOWbiFN8ZHakE",
+    "blog-first-post-b22": "979/path---blog-first-post-b-22-948-r9o3asmD3xnkQZZRXT9uZBsjYM",
+    "blog-f7a": "735/path---blog-f-7-a-05d-H8Z7Wjae4lZBMlzLe3f1T4ApM",
+    "first-post-482": "266/path---first-post-482-947-Xuyo5pmCUPIJwpAXarUnnA2lME"
   },
   "components": {
     "/Users/tannersmith/medium_landing/stackbit-www-components/src/templates/page.js": {
@@ -7143,9 +8062,11 @@
         "/",
         "/jobs/",
         "/medium/",
-        "/privacy/"
+        "/privacy/",
+        "/blog/",
+        "/blog/first-post/"
       ],
-      "isInBootstrap": true
+      "isInBootstrap": false
     },
     "/Users/tannersmith/medium_landing/stackbit-www-components/.cache/dev-404-page.js": {
       "query": "",

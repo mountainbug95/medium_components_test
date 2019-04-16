@@ -1,0 +1,18 @@
+---
+label: blogPostLayout
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Post Title
+    config:
+      required: true
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: BlogPostLayout
+    config:
+      required: true
+pages:
+  - src/pages/blog/first-post.md

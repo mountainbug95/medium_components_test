@@ -1,4 +1,5 @@
 ssgName: gatsby
+buildCommand: "./build.sh"
 uploadDir: "images"
 collections:
   - label: Pages
@@ -140,6 +141,24 @@ models:
         name: experienceLevel
         label: Experience Level
         descriptiopn: The level of experience required for the job
+  BlogLayout:
+    type: page
+    label: blogLayout
+    template: BlogLayout
+    fields:
+      - type: string
+        name: title
+        label: Page Title
+        required: true
+  BlogPostLayout:
+    type: page
+    label: blogPostLayout
+    template: BlogPostLayout
+    fields:
+      - type: string
+        name: title
+        label: Post Title
+        required: true
   genericSection:
     type: object
     label: Generic Section

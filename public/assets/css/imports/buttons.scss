@@ -76,6 +76,9 @@ a:visited {
       color: white;
       background-position: -$medium -$medium;
     }
+      &:visited{
+          color: white;
+      }
   }
 
   &.btn-secondary {
