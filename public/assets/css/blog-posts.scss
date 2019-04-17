@@ -1,0 +1,32 @@
+.post-container{
+    display: flex;
+    background-color: aqua;
+    margin-top: 75px;
+    padding-left: 6vw;
+    padding-right: 6vw;
+
+    .thumbnail-container{
+        order: 1;
+        max-width: 20vw;
+        position: relative;
+        display: inline-block;
+        background-color: green;
+
+        .thumbnail{
+            max-width: 100%;
+        }
+    }
+
+    .post-info{
+        order: 2;
+        display: inline-block;
+        margin-left: 75px;
+        max-width: 40vw;
+        background-color: red;
+
+        a{
+            color: black;
+        }
+    }
+
+}
